@@ -1,0 +1,636 @@
+Proveedor: 1007113026       Artes Gr ficas Sagitario S.R.L.                   
+03 50 900 0012 ETIQSICOMSUR   Etiquetas Sicomsur S/I 5x5cn                      
+Proveedor: 1009373022       PVC Compuestos Industriales S.A.                  
+03 18 022 0001 DOP            DOP                                               
+Proveedor: 1013583020       Amerix                                            
+01 20 020 0000 BOPP201000     BOPP 20 micrones 1000 mm.                         
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 030 1000 BOPP301000     BOPP 30 micrones 1000 mm.                         
+01 24 020 0720 PMET20720      PMET 20 micrones 720 mm.                          
+01 24 020 1000 PMET201000     PMET 20 micrones 1000 mm                          
+Proveedor: 1016323028       Solplast S.R.L.                                   
+01 01 001 0003 LDPE-3         Polietileno Extruido                              
+01 01 001 0015 LDPE-4         Polietileno Extruido Blanco                       
+01 15 030 0360 PP30360        PP 30 micras 360mm                                
+01 15 030 0530 PP30530        PP 30 micras 530mm                                
+03 04 011 0010 MB01           Masterbach Blanco                                 
+Proveedor: 1020159021       INDUSTRIAS LARA BISCH S.A.                        
+03 22 001 0001 ADHPOLI        Adhesivo Poliuretano                              
+Proveedor: 1020431029       Fabrica La Estrella SRL                           
+01 01 001 0010 LDPELOTRENE    LDPE Lotrene                                      
+01 01 001 0011 LDPEINNOPLUS   LDPE INNOPLUS LD 2426 H                           
+01 01 031 0001 PEMET-1        Polietileno Metaloceno                            
+01 20 020 0000 BOPP201000     BOPP 20 micrones 1000 mm.                         
+01 20 020 0515 BOPP20515      BOPP 20 micrones 515 mm                           
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 020 0880 BOPP20880      BOPP 20 micrones 880 mm.                          
+01 20 020 0980 BOPP20980      BOPP 20 micrones 980 mm                           
+01 20 020 1030 BOPP201030     BOPP 20 micrones 1030 mm.                         
+01 20 020 9900 BOPP20V        BOPP 20 micrones Varias Medidas                   
+01 20 030 0660 BOPP30660      BOPP 30 micrones 660 mm.                          
+01 20 030 0720 BOPP30720      BOPP 30 micrones 720 mm.                          
+01 20 030 0760 BOPP30760      BOPP 30 micrones 760 mm.                          
+01 20 030 0980 BOPP30980      BOPP 30 micrones 980 mm                           
+01 20 030 9900 BOPP30V        BOPP 30 micrones Varias Medidas                   
+01 20 035 0460 BOPP35460      BOPP 35 micrones 460 mm                           
+01 20 035 9900 BOPP35V        BOPP 35 micrones Varias Medidas                   
+01 22 025 0720 PB25720        PB 25 Micrones 720 mm                             
+01 22 025 9900 PB25V          PB 25 Micrones Varias Medidas                     
+01 24 020 0690 PMET20690      PMET 20 micrones 690 mm.                          
+01 24 020 0980 PMET20980      PMET 20 micrones 980 mm                           
+01 24 020 9900 PMET20V        PMET 20 micrones Varias Medidas                   
+01 28 025 9999 ASWVARMEDIDAS  ASW Varias Medidas                                
+01 36 012 0800 PET12800       PET 12 micrones 800 mm.                           
+01 36 012 9900 PET12V         Pet 12 Micrones Varias Medidas                    
+Proveedor: 1020559026       Antalis Bolivia                                   
+03 50 128 0005 REVELA         Revelador para pel¡culas                          
+03 50 128 0010 FIJADOR        Fijador para pel¡culas                            
+Proveedor: 1020657024       HEUBOL LTDA                                       
+01 01 001 0002 LDPE-2         Polietileno de baja termocontra¡ble               
+01 01 001 0013 LDPE-BRASKEM   LDPE BRASKEM EB853                                
+01 01 001 0016 PELINPROXESS   Polietileno Lineal Proxess 1806 S3                
+01 01 011 0001 HDPE-1         Polietileno de alta densidad                      
+01 01 031 0001 PEMET-1        Polietileno Metaloceno                            
+Proveedor: 1020891020       Hongbol S.R.L.                                    
+03 50 900 0006 ZIPPER         Zipper para Bolsas                                
+Proveedor: 1023363024       EMCOSIM SRL                                       
+03 50 100 0001 CADHT          Cinta Adhesiva Transparente 2"                    
+03 50 100 0005 CADHC          Cinta Adhesiva Canela 2"                          
+Proveedor: 1025065021       Materias Primas SRL                               
+01 01 001 0001 LDPE-1         Polietileno de baja densidad                      
+01 01 001 0002 LDPE-2         Polietileno de baja termocontra¡ble               
+01 01 001 0004 LDPE-LINEAL    Polietileno de Baja densidad Lineal               
+01 01 001 0008 LDPEPOLISUR    LDPE Polisur 230M                                 
+01 01 001 0012 LDPEF-GRADO    Polietileno Fuera de Grado                        
+01 01 001 0014 LDPE DOWN586A  LDPE DOW 586A                                     
+01 01 001 0017 LDPE-DOW611A   Polietileno Dow611A                               
+01 01 031 0001 PEMET-1        Polietileno Metaloceno                            
+03 04 011 0010 MB01           Masterbach Blanco                                 
+03 04 011 0070 MB07           Masterbach Naranja                                
+03 04 011 0080 BICARBONATO    Bicarbonato de Sodio CT 208                       
+Proveedor: 1028465027       Madepa S.A.                                       
+01 60 040 0800 PAP40800       Papel Rocalonde 40 gr/m2 800 mm.                  
+03 50 128 0005 REVELA         Revelador para pel¡culas                          
+03 50 128 0010 FIJADOR        Fijador para pel¡culas                            
+Proveedor: 121461022        Fralak S.R.L.                                     
+03 50 120 0040 PELI40         Rollo de pel¡cula 40 cm x 60 mt.                  
+03 50 120 0059 PELI59         Rollo de pel¡cula 30.5 cm x 60 mt.                
+03 50 128 0005 REVELA         Revelador para pel¡culas                          
+03 50 128 0010 FIJADOR        Fijador para pel¡culas                            
+Proveedor: 1493663          Corimex Ltda.                                     
+03 18 001 0001 IPA            Alcohol Isoprop¡lico                              
+03 18 100 0001 ACETATO        Acetato de Etilo                                  
+Proveedor: 150808029        Flexo Print S.R.L.                                
+03 50 900 0011 ETIQSIMSA250G  Etiquetas Simsa 250 g 20x30mm                     
+Proveedor: 189758029        FLEXICRUZ LTDA.                                   
+01 20 015 0620 BOPP15620      Bopp 15 Micrones 620 mm                           
+01 20 015 0661 BOPP15660      Bopp 15 Micrones 660 mm                           
+01 20 015 0980 BOPP15980      Bopp 15 Micrones 980 mm                           
+01 20 020 0525 BOPP20525      BOPP 20 micrones 525 mm                           
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 030 0620 BOPP30620      BOPP 30 micrones 620 mm                           
+03 12 001 0001 TLBLAN1        Tinta Blanca Laminaci¢n                           
+03 12 007 0001 TLNARA1        Tinta Naranja Laminaci¢n                          
+03 12 034 0001 TLNEGR1        Tinta Negra Laminaci¢n                            
+03 12 050 0001 TLPAMA1        Tinta Amarilla Process Laminaci¢n                 
+03 12 052 0001 TLPMAG1        Tinta Magenta Process Laminaci¢n                  
+03 12 054 0001 TLPCYAN1       Tinta Cyan Process Laminaci¢n                     
+03 50 100 0001 CADHT          Cinta Adhesiva Transparente 2"                    
+Proveedor: 2055273012       Sun Gigantografias                                
+95 10 070 0004 957004         Vladimir Tintaya Adhesivos botellas 4 tama¤os     
+Proveedor: 2268485          Aconcal S.A.                                      
+03 08 001 0001 TSBLAN1        Tinta Blanca Superficie                           
+03 08 004 0001 TSAMAR1        Tinta Amarilla Superficie                         
+03 08 004 0002 AMARCRO        Tinta Amarillo Cromo Superficie                   
+03 08 007 0001 TSNARA1        Tinta Naranja Superficie                          
+03 08 010 0001 TSROJA1        Tinta Roja Medio Superficie                       
+03 08 010 0002 TSROJA2        Tinta Roja Escarlata Superficie                   
+03 08 016 0001 TSRODA1        Tinta Rhodamine Red Superficie                    
+03 08 019 0001 TSPURP1        Tinta P£rpura Superficie                          
+03 08 025 0001 TSAZUL1        Tinta Azul Superficie Oscuro                      
+03 08 028 0001 TSAZREF1       Tinta Azul Reflex Superficie                      
+03 08 034 0001 TSNEGR1        Tinta Negra Superficie                            
+03 08 050 0001 TSPAMA1        Tinta Amarilla Process Superficie                 
+03 08 052 0001 TSPMAG1        Tinta Magenta Process Superficie                  
+03 08 054 0001 TSPCYAN1       Tinta Cyan Process Superficie                     
+03 08 100 0001 TSORO1         Tinta Oro Superficie                              
+03 11 001 0001 TLHNEGRO       Tinta Hi Tone Negro Laminacion                    
+03 11 001 0002 TLHAMAPRO      Tinta Hi Tone Amarillo Proc Laminacion            
+03 11 001 0003 TLHMAG         Tinta Hi Tone Magenta Laminacion                  
+03 12 001 0001 TLBLAN1        Tinta Blanca Laminaci¢n                           
+03 12 004 0001 TLPPAMAR1      Tinta PoliPrint 3.0 Amarillo Laminacion           
+03 12 004 0003 TLPPMAG1       Tinta Laminacion Poliprint Magenta                
+03 12 004 0004 TLPNEGR1       Tinta Laminacion Poliprint Negra                  
+03 12 004 0005 TLPPCYAN       TINTA LAMINACION POLIPRINT CYAN                   
+03 12 007 0001 TLNARA1        Tinta Naranja Laminaci¢n                          
+03 12 010 0001 TLROJA1        Tinta Roja Medio Laminaci¢n                       
+03 12 010 0002 TLROJA2        Tinta Roja Escarlata Laminaci¢n                   
+03 12 028 0001 TLAZREF1       Tinta Azul Reflex Laminaci¢n                      
+03 12 034 0001 TLNEGR1        Tinta Negra Laminaci¢n                            
+03 12 050 0001 TLPAMA1        Tinta Amarilla Process Laminaci¢n                 
+03 12 052 0001 TLPMAG1        Tinta Magenta Process Laminaci¢n                  
+03 12 054 0001 TLPCYAN1       Tinta Cyan Process Laminaci¢n                     
+03 12 100 0001 TLORO1         Tinta Oro Laminaci¢n                              
+03 13 001 0001 TSAMAG1        Tinta Antiper¢xido Magenta Superficie             
+03 13 001 0002 TSACYAN1       Tinta Antiper¢xido Cyan Superficie                
+03 13 001 0004 TSAAMA1        Tinta Antiper¢xido Amarillo Superficie            
+03 13 001 0005 TSABLAN1       Tinta Antiper¢xido Blanca Superficie              
+03 13 001 0006 TSAAZREF1      Tinta Antiperoxido Azul Reflex Superficie         
+03 15 007 0001 EXTPPLAM       Extender PoliPrint Laminacion                     
+03 15 008 0001 PRIMER         Primer                                            
+03 15 012 0001 LACA           Laca                                              
+Proveedor: 2354392015       ATMA GRAFICA                                      
+03 50 120 0059 PELI59         Rollo de pel¡cula 30.5 cm x 60 mt.                
+03 50 128 0005 REVELA         Revelador para pel¡culas                          
+Proveedor: 2483661          Weinberg                                          
+01 60 052 0740 PAP63740       Papel Bond 63 gr/m2 740 mm                        
+99 99 102 0000 PREPELI        Preprensa Pel¡culas                               
+Proveedor: 273834023        FERRAR GROUP S.R.L.                               
+03 12 001 0003 TLLPBLAN1      Tinta LamiPet Blanca Laminacion                   
+03 12 051 0001 TLMPAMA1       Tinta Megafull Amarillo Process Laminaci¢n        
+Proveedor: 3940950          Brenntag Bolivia S.R.L.                           
+03 18 001 0001 IPA            Alcohol Isoprop¡lico                              
+03 18 007 0001 PROPANOL       Alcohol Propil Normal                             
+03 18 020 0001 BUTANOL        Butanol                                           
+03 18 100 0001 ACETATO        Acetato de Etilo                                  
+03 18 103 0001 ACEPROP        Acetato Propil Normal                             
+03 18 200 0001 PERCLORO       Percloroetileno                                   
+03 18 220 0054 DOWAN          Dowanol                                           
+Proveedor: 4043545          Algar S.R.L.                                      
+03 08 001 0001 TSBLAN1        Tinta Blanca Superficie                           
+03 08 004 0002 AMARCRO        Tinta Amarillo Cromo Superficie                   
+03 08 007 0019 TWNARA19       Tinta Naranja Windsor                             
+03 08 007 0020 TWBEIGE20      Tinta Beige Windsor (Trimate)                     
+03 08 010 0019 TWROJO19       Tinta Roja Windsor                                
+03 08 025 0001 TSAZUL1        Tinta Azul Superficie Oscuro                      
+03 08 034 0019 TWNEGR19       Tinta Negra Windsor                               
+03 08 050 0001 TSPAMA1        Tinta Amarilla Process Superficie                 
+03 08 050 0019 TWPAMA19       Tinta Amarillo Process Windsor                    
+03 08 052 0001 TSPMAG1        Tinta Magenta Process Superficie                  
+03 08 054 0001 TSPCYAN1       Tinta Cyan Process Superficie                     
+03 08 054 0019 TWCYAN19       Tinta Cyan Process Windsor                        
+03 12 001 0001 TLBLAN1        Tinta Blanca Laminaci¢n                           
+03 12 007 0001 TLNARA1        Tinta Naranja Laminaci¢n                          
+03 12 028 0001 TLAZREF1       Tinta Azul Reflex Laminaci¢n                      
+03 12 034 0001 TLNEGR1        Tinta Negra Laminaci¢n                            
+03 12 050 0001 TLPAMA1        Tinta Amarilla Process Laminaci¢n                 
+03 12 052 0001 TLPMAG1        Tinta Magenta Process Laminaci¢n                  
+03 12 054 0001 TLPCYAN1       Tinta Cyan Process Laminaci¢n                     
+03 18 001 0001 IPA            Alcohol Isoprop¡lico                              
+03 18 100 0001 ACETATO        Acetato de Etilo                                  
+Proveedor: 4564960          3M de Bolivia                                     
+03 50 005 0012 DF12           Doble Faz .12 mm                                  
+03 50 008 0050 DFBD50         Doble Faz Acolchado Baja Densidad .50 mm          
+03 50 011 0050 DFMD50         Doble Faz Acolchado Media Densidad .50 mm         
+03 50 014 0050 DFAD50         Doble Faz Acolchado Alta Densidad .50 mm          
+03 50 900 0005 PA¥AZ          Pa¤os Azules                                      
+Proveedor: 4601580          American Chemical Company S.R.L.                  
+03 18 001 0001 IPA            Alcohol Isoprop¡lico                              
+03 18 001 0010 SOLTIN         Solvente para tintas                              
+03 18 022 0001 DOP            DOP                                               
+03 18 100 0001 ACETATO        Acetato de Etilo                                  
+Proveedor: 6763230017       Impresiones MELDIR                                
+10 01 001 0001 E100001        Mundo Moringa Etiquetas 2 modelos 13x13 cm        
+95 10 070 0001 957001         Garret Stickers adhesivos impresos Quinua 11x9cm  
+95 10 070 0002 957002         Cafe Magick Stickers adhesivos impresos           
+Proveedor: 7188005          Inprotec S.R.L.                                   
+03 50 001 0284 FP284          Fotopol¡mero de 2.84 mm                           
+Proveedor: 7769563          Cosim                                             
+03 50 100 0001 CADHT          Cinta Adhesiva Transparente 2"                    
+03 50 100 0005 CADHC          Cinta Adhesiva Canela 2"                          
+Proveedor: 7864957          Coinser Ltda.                                     
+01 01 001 0001 LDPE-1         Polietileno de baja densidad                      
+01 01 001 0002 LDPE-2         Polietileno de baja termocontra¡ble               
+01 01 001 0004 LDPE-LINEAL    Polietileno de Baja densidad Lineal               
+01 01 001 0005 LDPEPEMEX      LDPE Pemex PX20020 P                              
+01 01 001 0013 LDPE-BRASKEM   LDPE BRASKEM EB853                                
+01 01 011 0001 HDPE-1         Polietileno de alta densidad                      
+01 01 031 0001 PEMET-1        Polietileno Metaloceno                            
+01 01 901 0004 ADITUV         Aditivo UV                                        
+01 01 901 0005 ADITPURGA      Aditivo de Purga                                  
+01 01 901 0006 ANTIOXIDANTE   Antioxidante                                      
+01 01 901 0007 ADITBIODEG     Aditivo Biodegradable                             
+01 20 020 0000 BOPP201000     BOPP 20 micrones 1000 mm.                         
+01 20 020 0515 BOPP20515      BOPP 20 micrones 515 mm                           
+01 20 020 0520 BOPP20520      BOPP 20 micrones 520 mm                           
+01 20 020 0570 BOPP20570      BOPP 20 micrones 570 mm                           
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 020 0680 BOPP20680      BOPP 20 micrones 680 mm                           
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 030 0660 BOPP30660      BOPP 30 micrones 660 mm.                          
+01 20 030 0780 BOPP30780      BOPP 30 micrones 780 mm                           
+01 20 035 0760 BOPP35760      BOPP 35 micrones 760 mm.                          
+01 20 035 1000 BOPP351000     BOPP 35 micrones 1000 mm.                         
+01 22 025 0720 PB25720        PB 25 Micrones 720 mm                             
+01 22 030 0720 PB30720        PB 30 micrones 720 mm                             
+01 22 030 0760 PB30760        PB 30 micrones 760 mm.                            
+01 22 040 0720 PB40720        PB 40 micrones 720 mm.                            
+01 24 020 0620 PMET20620      PMET 20 micrones 620 mm                           
+01 24 020 0720 PMET20720      PMET 20 micrones 720 mm.                          
+01 24 020 1000 PMET201000     PMET 20 micrones 1000 mm                          
+03 04 011 0010 MB01           Masterbach Blanco                                 
+03 04 011 0070 MB07           Masterbach Naranja                                
+03 04 011 0100 MB10           Masterbach Rojo                                   
+03 04 011 0120 MB12           Masterbach Azul                                   
+03 04 011 0340 MB34           Masterbach Negro                                  
+03 08 001 0001 TSBLAN1        Tinta Blanca Superficie                           
+03 08 004 0002 AMARCRO        Tinta Amarillo Cromo Superficie                   
+03 08 004 0003 TSFPAMA1       Tinta Flexilam Amarillo Superficie                
+03 08 007 0001 TSNARA1        Tinta Naranja Superficie                          
+03 08 010 0001 TSROJA1        Tinta Roja Medio Superficie                       
+03 08 010 0002 TSROJA2        Tinta Roja Escarlata Superficie                   
+03 08 016 0001 TSRODA1        Tinta Rhodamine Red Superficie                    
+03 08 022 0001 TSVIOL1        Tinta Violeta Superficie                          
+03 08 025 0001 TSAZUL1        Tinta Azul Superficie Oscuro                      
+03 08 028 0001 TSAZREF1       Tinta Azul Reflex Superficie                      
+03 08 031 0001 TSVERD1        Tinta Verde Superficie                            
+03 08 034 0001 TSNEGR1        Tinta Negra Superficie                            
+03 08 034 0002 TSRNEGR1       TINTA ROTOCHEM NEGRA SUPERFICIE                   
+03 08 034 0003 TSFNEGR1       Tinta Flexilam Negra Superficie                   
+03 08 050 0001 TSPAMA1        Tinta Amarilla Process Superficie                 
+03 08 052 0001 TSPMAG1        Tinta Magenta Process Superficie                  
+03 08 052 0002 TSFMAG1        Tinta Flexilam Magenta Superficie                 
+03 08 054 0001 TSPCYAN1       Tinta Cyan Process Superficie                     
+03 08 054 0002 TSFCYAN1       Tinta Flexilam Cyan Superficie                    
+03 08 100 0001 TSORO1         Tinta Oro Superficie                              
+03 09 001 0001 TSHNEGRO       Tinta Hi Tone Negro Superficie                    
+03 09 001 0002 TSHAMAR        Tinta Hi Tone Amarillo Superficie                 
+03 09 001 0003 TSHMAG         Tinta Hi Tone Magenta Superficie                  
+03 09 001 0004 TSHCYAN        Tinta Hi Tone Cyan Superficie                     
+03 11 001 0001 TLHNEGRO       Tinta Hi Tone Negro Laminacion                    
+03 11 001 0002 TLHAMAPRO      Tinta Hi Tone Amarillo Proc Laminacion            
+03 11 001 0003 TLHMAG         Tinta Hi Tone Magenta Laminacion                  
+03 11 001 0004 TLHCYAN        Tinta Hi Tone Cyan Laminacion                     
+03 12 001 0001 TLBLAN1        Tinta Blanca Laminaci¢n                           
+03 12 001 0002 TLFBLAN1       Tinta Flexilam Blanca Laminacion                  
+03 12 004 0002 TLAMAR2        Tinta Amarillo Cromo Laminaci¢n                   
+03 12 007 0001 TLNARA1        Tinta Naranja Laminaci¢n                          
+03 12 010 0001 TLROJA1        Tinta Roja Medio Laminaci¢n                       
+03 12 010 0002 TLROJA2        Tinta Roja Escarlata Laminaci¢n                   
+03 12 016 0001 TLRODA1        Tinta Rhodamine Red Laminaci¢n                    
+03 12 022 0001 TLVIOL1        Tinta Violeta Laminaci¢n                          
+03 12 025 0001 TLAZUL1        Tinta Azul Laminaci¢n                             
+03 12 028 0001 TLAZREF1       Tinta Azul Reflex Laminaci¢n                      
+03 12 031 0001 TLVERD1        Tinta Verde Laminaci¢n                            
+03 12 034 0001 TLNEGR1        Tinta Negra Laminaci¢n                            
+03 12 050 0001 TLPAMA1        Tinta Amarilla Process Laminaci¢n                 
+03 12 052 0001 TLPMAG1        Tinta Magenta Process Laminaci¢n                  
+03 12 054 0001 TLPCYAN1       Tinta Cyan Process Laminaci¢n                     
+03 12 100 0001 TLORO1         Tinta Oro Laminaci¢n                              
+03 13 001 0001 TSAMAG1        Tinta Antiper¢xido Magenta Superficie             
+03 13 001 0002 TSACYAN1       Tinta Antiper¢xido Cyan Superficie                
+03 13 001 0003 TSANEGR1       Tinta Antiper¢xido Negro Superficie               
+03 13 001 0004 TSAAMA1        Tinta Antiper¢xido Amarillo Superficie            
+03 13 001 0005 TSABLAN1       Tinta Antiper¢xido Blanca Superficie              
+03 15 001 0001 EXTSUP         Extender Flexo Superficie                         
+03 15 003 0001 EXTLAM         Extender Flexo Laminaci¢n                         
+03 15 005 0001 EXTROT         Extender Roto                                     
+03 15 008 0001 PRIMER         Primer                                            
+03 15 012 0001 LACA           Laca                                              
+03 18 001 0001 IPA            Alcohol Isoprop¡lico                              
+03 18 100 0001 ACETATO        Acetato de Etilo                                  
+03 18 103 0001 ACEPROP        Acetato Propil Normal                             
+03 18 220 0054 DOWAN          Dowanol                                           
+03 50 005 0012 DF12           Doble Faz .12 mm                                  
+03 50 006 0038 DF38           Doble Faz .38 mm.                                 
+03 50 007 0030 DF30           Doble Faz 0.30 m                                  
+03 50 008 0050 DFBD50         Doble Faz Acolchado Baja Densidad .50 mm          
+03 50 011 0050 DFMD50         Doble Faz Acolchado Media Densidad .50 mm         
+03 50 014 0050 DFAD50         Doble Faz Acolchado Alta Densidad .50 mm          
+03 50 100 0006 CADHTP         Tesa Film Cinta de Embalaje 66Mx12mm (scotch tranp
+03 50 100 0007 TS4323         Cinta Adhesiva Tesakrep                           
+Proveedor: 8483264          Quimica Anders Ltda.                              
+03 18 200 0001 PERCLORO       Percloroetileno                                   
+03 18 220 0001 SOLCLIS        Solvente lavado clis‚s                            
+03 18 220 0005 ADITA          Aditivo A                                         
+03 18 220 0010 ADITB          Aditivo B                                         
+03 18 220 0050 RECLEAN        Recyl Clean                                       
+03 50 001 0170 FP170          Fotopol¡mero de 1,70 mm                           
+03 50 001 0254 FP254          Fotopol¡mero de 2.54 mm                           
+03 50 001 0284 FP284          Fotopol¡mero de 2.84 mm                           
+03 50 008 0050 DFBD50         Doble Faz Acolchado Baja Densidad .50 mm          
+03 50 011 0050 DFMD50         Doble Faz Acolchado Media Densidad .50 mm         
+03 50 014 0050 DFAD50         Doble Faz Acolchado Alta Densidad .50 mm          
+03 50 900 0005 PA¥AZ          Pa¤os Azules                                      
+99 99 998 0001 9980001        Rasqueta Recta Flexolife 40.0 * 0.20 mm           
+Proveedor: AGUILA_GRAPH     AGUILA GRAPH INTERNACIONAL S.A.                   
+03 50 120 0041 PELI83.80      Rollo de Pelicula HNM 83.80 x 60                  
+03 50 120 0042 PELI50.80      Rollo de Pelicula HNM 50.80 x 60                  
+Proveedor: AHLSTROM         Ahlstrom Label Pack                               
+01 60 040 0800 PAP40800       Papel Rocalonde 40 gr/m2 800 mm.                  
+Proveedor: ANDEXPORT        COMERCIAL ANDEXPORT                               
+99 99 998 0002 9980002        Cuchillas CEELO Hoja Canto Redondo 0.4x60 mm      
+Proveedor: BRENNTAG         Brenntag N.V.                                     
+03 18 007 0001 PROPANOL       Alcohol Propil Normal                             
+03 18 103 0001 ACEPROP        Acetato Propil Normal                             
+Proveedor: CARLOSGONZALEZ   Carlos Gonzalez S.A. Envases Flexibles            
+03 50 900 0006 ZIPPER         Zipper para Bolsas                                
+Proveedor: CELULOSA         Celulosa Argentina S.A.                           
+01 60 055 0001 PAFIC60740     Papel Afiche 60grs 740 mm                         
+01 60 055 0370 PAFIC60370     Papel Afiche 60 grs 370 mm                        
+Proveedor: COMEXI           COMEXI                                            
+99 99 998 0000 REPUESTOS      Repuestos                                         
+Proveedor: CONSTANTIA       Constantia Hueck Folien GmbH & Co.                
+01 60 062 0630 PAP40/AL9/630M Papel/Aluminio/LDPE 630 mm                        
+01 60 062 0660 PAP40/AL9/PELD Papel/Aluminio/LDPE 660 mm                        
+01 60 062 0740 PAP40/AL9/740  Papel/Aluminio/LDPE 740 mm                        
+01 60 062 5074 PAP50/AL9/740  Papel50/Aluminio/LDPE 740 mm                      
+Proveedor: EXXONMOBIL       ExxonMobil Chemical Company                       
+01 28 001 0800 85AXT800       85 AXT 800 mm                                     
+01 28 003 0800 70MLT800       70 MLT 800 mm.                                    
+01 28 006 0600 110ASBX600     110 ASB-X 600 mm.                                 
+01 28 009 0600 120LTSC600     120 LTSC 600 mm.                                  
+01 28 012 0720 278WOS720      278 WOS 720 mm.                                   
+01 28 015 0760 35MU760        35 MU 842 760 mm.                                 
+01 40 023 0720 90BIHD720      90 BIHD 720 mm.                                   
+01 43 023 0720 90BIHDM720     90 BIHD-M 720 mm.                                 
+Proveedor: EZ HI TECH       EZ HI TECH                                        
+99 99 998 0000 REPUESTOS      Repuestos                                         
+Proveedor: FLEX AMERICAS    Flex Americas S.A. de C.V.                        
+01 36 012 0520 PET12520       PET 12 micrones 520 mm                            
+01 36 012 0640 PET12640       Pet 12 micrones 640mm                             
+01 36 012 0760 PET12760       Pet 12 micrones 760mm                             
+01 36 012 0830 PET12830       Pet 12 micrones 830 mm                            
+01 37 012 0760 PETMATE12760   PET MATE 12 micrones 760 mm                       
+01 38 012 0520 PETM12520      PET MET 12 micrones 520 mm                        
+01 38 012 0660 PETM12660      PET MET 12 micrones 660 mmm                       
+01 38 012 0800 PETM12760      PET MET 12 micrones 760 mm.                       
+01 39 018 0580 PETTWIST18580  Pet Twist 18 micrones 580 mm                      
+Proveedor: GOGLIO           GOGLIO SpA                                        
+03 50 900 0010 VALCAFE20      Valvula de gas para caf‚ 20 mm                    
+Proveedor: HARPER           HARPER Corporation of America                     
+Proveedor: HENKEL           Henkel Chile S.A.                                 
+03 22 001 0001 ADHPOLI        Adhesivo Poliuretano                              
+03 22 001 0003 ADHRETI        Adhesivo Reticulante sin Solvente                 
+Proveedor: HUDSON SHARP     Hudson Sharp Machine do Brasil Ltd.               
+99 99 998 0000 REPUESTOS      Repuestos                                         
+Proveedor: IBERCERAS        Iberceras S.A.                                    
+03 01 001 0001 TERM1595       Parafina para Papel                               
+Proveedor: INTERMARKET      Intermarket Corp.                                 
+03 50 001 0170 FP170          Fotopol¡mero de 1,70 mm                           
+03 50 001 0254 FP254          Fotopol¡mero de 2.54 mm                           
+03 50 001 0284 FP284          Fotopol¡mero de 2.84 mm                           
+03 50 120 0042 PELI50.80      Rollo de Pelicula HNM 50.80 x 60                  
+03 50 120 0059 PELI59         Rollo de pel¡cula 30.5 cm x 60 mt.                
+Proveedor: ITALZIP          ITALZIP                                           
+03 50 900 0006 ZIPPER         Zipper para Bolsas                                
+03 50 900 0008 VALCOR10       Valvula Corner 10 mm                              
+03 50 900 0009 VALCEN8        Valvula Central 8 mm                              
+Proveedor: MACDERMID        MacDermid Graphics Arts                           
+03 50 001 0254 FP254          Fotopol¡mero de 2.54 mm                           
+03 50 001 0284 FP284          Fotopol¡mero de 2.84 mm                           
+Proveedor: MUHLSTEIN        Muhlstein International Ltd.                      
+01 01 001 0001 LDPE-1         Polietileno de baja densidad                      
+01 01 001 0002 LDPE-2         Polietileno de baja termocontra¡ble               
+01 01 011 0001 HDPE-1         Polietileno de alta densidad                      
+01 01 021 0001 LLDPE-1        Polietileno de alta densidad lineal               
+01 01 031 0001 PEMET-1        Polietileno Metaloceno                            
+01 03 001 0001 PESTIR-1       Poliestireno                                      
+Proveedor: OMNI TECH        Omni Tech Internacional SRL                       
+03 50 001 0170 FP170          Fotopol¡mero de 1,70 mm                           
+03 50 001 0254 FP254          Fotopol¡mero de 2.54 mm                           
+03 50 120 0041 PELI83.80      Rollo de Pelicula HNM 83.80 x 60                  
+03 50 120 0042 PELI50.80      Rollo de Pelicula HNM 50.80 x 60                  
+03 50 120 0059 PELI59         Rollo de pel¡cula 30.5 cm x 60 mt.                
+03 50 900 0005 PA¥AZ          Pa¤os Azules                                      
+Proveedor: OPPFILM          Opp Film S.A.                                     
+01 16 020 0520 BOPPMATE20520  BOPP MATE 20 micrones 520 mm                      
+01 16 020 0620 BOPPMATE20620  BOPP MATE 20 micrones 620 mm                      
+01 16 020 0660 BOPPMATE20660  BOPP MATE 20 micrones 660 mm                      
+01 20 015 0620 BOPP15620      Bopp 15 Micrones 620 mm                           
+01 20 017 0620 BOPP17620      Bopp 17 Micrones 620 mm                           
+01 20 017 0660 BOPPMATE17660  BOPP MATE 17 micrones 660 mm                      
+01 20 017 0720 BOPPMATE17720  BOPP MATE 17 micrones 720 mm                      
+01 20 017 0760 BOPPMATE17760  BOPP MATE 17 micrones 760 mm                      
+01 20 017 9999 BOPPMATEVAR    BOPP MATE Varias Medidas                          
+01 20 018 0720 BOPP18720      BOPP 18 micrones 720 mm                           
+01 20 020 0000 BOPP201000     BOPP 20 micrones 1000 mm.                         
+01 20 020 0005 CASTBOPP20520  CAST BOPP 20 micrones 520 mm                      
+01 20 020 0460 BOPP20460      Bopp 20 micrones 460 mm                           
+01 20 020 0461 SBOPP20460     BOPP 20 micrones 460 mm Sigmaplast                
+01 20 020 0515 BOPP20515      BOPP 20 micrones 515 mm                           
+01 20 020 0520 BOPP20520      BOPP 20 micrones 520 mm                           
+01 20 020 0525 BOPP20525      BOPP 20 micrones 525 mm                           
+01 20 020 0526 SBOPP20525     BOPP 20 micrones 525 mm Sigmaplast                
+01 20 020 0570 BOPP20570      BOPP 20 micrones 570 mm                           
+01 20 020 0600 BOPP20600      BOPP 20 micrones 600 mm.                          
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 020 0621 SBOPP20620     BOPP 20 micrones 620 mm Sigmaplast                
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 020 0661 SBOPP20660     BOPP 20 micrones 660 mm Sigmaplast                
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0721 SBOPP20720     BOPP 20 micrones 720 mm Sigmaplast                
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 020 0761 BOPPLH20760    BOPP LH 20 micrones 760 mm                        
+01 20 020 0762 BOPPLH20620    BOPP LH 20 micrones 620 mm                        
+01 20 020 0763 SBOPP20760     BOPP 20 micrones 760 mm Sigmaplast                
+01 20 020 0840 BOPP20840      BOPP 20 micrones 840 mm                           
+01 20 020 0880 BOPP20880      BOPP 20 micrones 880 mm.                          
+01 20 020 0881 SBOPP20880     BOPP 20 micrones 880 mm Sigmaplast                
+01 20 025 0002 CASTBOPP25720  CAST Bopp 25 micrones 720 mm                      
+01 20 025 0003 CASTBOPP25620  Cast Bopp 25 micras 620 mm                        
+01 20 030 0002 CASTBOPP30520  Cast Bopp 30 Micrones 520 mm                      
+01 20 030 0003 CASTBOPP30660  CAST Bopp 30 micrones 660 mm                      
+01 20 030 0004 CASTBOPP30760  CAST Bopp 30 micrones 760 mm                      
+01 20 030 0005 SCASTBOPP30520 Cast Bopp 30 Micrones 520 mm reducido             
+01 20 030 0006 SCASTBOPP30760 Cast Bopp 30 micrones 760 mm reducido             
+01 20 030 0524 BOPP30524      BOPP 30 micrones 524 mm.                          
+01 20 030 0620 BOPP30620      BOPP 30 micrones 620 mm                           
+01 20 030 0660 BOPP30660      BOPP 30 micrones 660 mm.                          
+01 20 030 0720 BOPP30720      BOPP 30 micrones 720 mm.                          
+01 20 030 0760 BOPP30760      BOPP 30 micrones 760 mm.                          
+01 20 030 0800 BOPP30800      Bopp 30 micrones 800 mm                           
+01 20 030 0840 BOPP30840      BOPP 30 micrones 840 mm                           
+01 20 035 0460 BOPP35460      BOPP 35 micrones 460 mm                           
+01 20 035 0620 BOPP35620      BOPP 35 micrones 620 mm                           
+01 20 035 0621 SBOPP35620     BOPP 35 micrones 620 mm Sigmaplast                
+01 20 035 0760 BOPP35760      BOPP 35 micrones 760 mm.                          
+01 20 035 0840 BOPP35840      BOPP 35 micrones 840 mm                           
+01 20 035 0841 SBOPP35840     Bopp 35 Micrones 840 mm reducido                  
+01 20 035 0920 BOPP35920      BOPP 35 micrones 920 mm                           
+01 20 040 0001 CASTBOPP40620  CAST Bopp 40 micras 620 mm                        
+01 20 040 0002 CASTBOPP40520  CAST BOPP 40 micrones 520 mm                      
+01 22 025 0720 PB25720        PB 25 Micrones 720 mm                             
+01 22 025 0721 SPB25720       PB 25 micrones 720 mm                             
+01 22 030 0720 PB30720        PB 30 micrones 720 mm                             
+01 22 040 0740 PB40740        PB 40 micrones 740 mm                             
+01 22 040 0750 PB40750        PB 40 micrones 750 mm                             
+01 24 015 0660 PMET15660      PMET 15 micrones 660 mm                           
+01 24 017 0720 PMET17720      PMET 17 Micrones 720 mm                           
+01 24 020 0525 PMET20525      PMET 20 micrones 525 mm                           
+01 24 020 0526 SPMET20525     PMET 20 micrones 525 mm Sigmaplast                
+01 24 020 0620 PMET20620      PMET 20 micrones 620 mm                           
+01 24 020 0621 SPMET20620     PMET 20 micrones 620 mm Sigmaplast                
+01 24 020 0660 PMET20660      PMET 20 micrones 660 mm                           
+01 24 020 0690 PMET20690      PMET 20 micrones 690 mm.                          
+01 24 020 0720 PMET20720      PMET 20 micrones 720 mm.                          
+01 24 020 0721 SPMET20720     PMET 20 micrones 720 mm Sigmaplast                
+01 24 020 0840 PMET20840      PMET 20 micrones 840 mm                           
+01 36 012 0520 PET12520       PET 12 micrones 520 mm                            
+01 36 012 0640 PET12640       Pet 12 micrones 640mm                             
+01 36 012 0760 PET12760       Pet 12 micrones 760mm                             
+01 36 012 0800 PET12800       PET 12 micrones 800 mm.                           
+01 36 012 0830 PET12830       Pet 12 micrones 830 mm                            
+01 38 012 0521 SPETM12520     PET MET 12 micrones 520 mm reducido               
+01 38 012 0660 PETM12660      PET MET 12 micrones 660 mmm                       
+01 38 012 0800 PETM12760      PET MET 12 micrones 760 mm.                       
+01 39 018 0580 PETTWIST18580  Pet Twist 18 micrones 580 mm                      
+01 48 015 0520 PA15520        Bopa 15 Micras 520 mm                             
+01 48 015 0521 SPA15520       Bopa 15 micras 520 mm reducido                    
+01 48 015 0620 PA15620        Bopa 15 Micras 620 mm                             
+01 48 015 0720 PA15720        Bopa 15 micras 720 mm.                            
+01 48 015 0721 SPA15720       Bopa 15 Micras 720 mm reducido                    
+01 48 015 0760 PA15760        Bopa 15 micras 760 mm                             
+01 49 015 0660 PAMET15660     Bopa Metalizado 15 micras 660 mm                  
+01 60 063 0620 PAP40/PE10/620 Papel revestido 4010- 620mm                       
+01 60 063 0700 PAP40/PE20/700 Papel Revestido 4020-700mm                        
+01 60 063 0740 PAP40/PE20/740 Papel Revestido 4020-740mm                        
+01 60 063 0770 PAP40\PE10\770 Papel Revestido 4010 - 770 mm                     
+Proveedor: PRAXIAR          Praxiar Surface Technologies                      
+99 99 998 0000 REPUESTOS      Repuestos                                         
+Proveedor: QUIMICA ANDERS   Quimica Anders S.A.C.                             
+03 18 200 0001 PERCLORO       Percloroetileno                                   
+03 50 001 0254 FP254          Fotopol¡mero de 2.54 mm                           
+99 99 998 0000 REPUESTOS      Repuestos                                         
+Proveedor: SIGDOPACK        Sigdopack                                         
+01 20 018 0720 BOPP18720      BOPP 18 micrones 720 mm                           
+01 20 020 0520 BOPP20520      BOPP 20 micrones 520 mm                           
+01 20 020 0525 BOPP20525      BOPP 20 micrones 525 mm                           
+01 20 020 0570 BOPP20570      BOPP 20 micrones 570 mm                           
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 020 0761 BOPPLH20760    BOPP LH 20 micrones 760 mm                        
+01 20 020 0880 BOPP20880      BOPP 20 micrones 880 mm.                          
+01 20 020 1030 BOPP201030     BOPP 20 micrones 1030 mm.                         
+01 20 030 0524 BOPP30524      BOPP 30 micrones 524 mm.                          
+01 20 030 0675 BOPP30675      BOPP 30 micrones 675 mm.                          
+01 20 030 0720 BOPP30720      BOPP 30 micrones 720 mm.                          
+01 20 030 0760 BOPP30760      BOPP 30 micrones 760 mm.                          
+01 20 030 1000 BOPP301000     BOPP 30 micrones 1000 mm.                         
+01 20 035 0620 BOPP35620      BOPP 35 micrones 620 mm                           
+01 20 035 0760 BOPP35760      BOPP 35 micrones 760 mm.                          
+01 20 035 1000 BOPP351000     BOPP 35 micrones 1000 mm.                         
+01 22 025 0720 PB25720        PB 25 Micrones 720 mm                             
+01 22 030 0720 PB30720        PB 30 micrones 720 mm                             
+01 22 030 0760 PB30760        PB 30 micrones 760 mm.                            
+01 22 030 0830 PB30830        PB 30 micrones 830 mm.                            
+01 24 017 0760 PMETMEPRO17760 PMET MEPRO 17 micrones 760 mm.                    
+01 24 020 0525 PMET20525      PMET 20 micrones 525 mm                           
+01 24 020 0620 PMET20620      PMET 20 micrones 620 mm                           
+01 24 020 0690 PMET20690      PMET 20 micrones 690 mm.                          
+01 24 020 0720 PMET20720      PMET 20 micrones 720 mm.                          
+01 28 003 0800 70MLT800       70 MLT 800 mm.                                    
+01 48 015 0520 PA15520        Bopa 15 Micras 520 mm                             
+01 48 015 0620 PA15620        Bopa 15 Micras 620 mm                             
+01 48 015 0720 PA15720        Bopa 15 micras 720 mm.                            
+01 48 015 0760 PA15760        Bopa 15 micras 760 mm                             
+01 49 015 0660 PAMET15660     Bopa Metalizado 15 micras 660 mm                  
+Proveedor: SIGMAPLAST S.A   9IGMAPLAST S.A.                                   
+01 20 015 0660 SBOPP15660     BOPP 15 Micrones 660 mm Sigmaplast                
+01 20 020 0461 SBOPP20460     BOPP 20 micrones 460 mm Sigmaplast                
+01 20 020 0515 BOPP20515      BOPP 20 micrones 515 mm                           
+01 20 020 0516 SBOPP20515     BOPP 20 micrones 515 mm Sigmaplast                
+01 20 020 0525 BOPP20525      BOPP 20 micrones 525 mm                           
+01 20 020 0526 SBOPP20525     BOPP 20 micrones 525 mm Sigmaplast                
+01 20 020 0570 BOPP20570      BOPP 20 micrones 570 mm                           
+01 20 020 0571 SBOPP20570     BOPP 20 micrones 570 mm Sigmaplast                
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 020 0621 SBOPP20620     BOPP 20 micrones 620 mm Sigmaplast                
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 020 0661 SBOPP20660     BOPP 20 micrones 660 mm Sigmaplast                
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0721 SBOPP20720     BOPP 20 micrones 720 mm Sigmaplast                
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 020 0763 SBOPP20760     BOPP 20 micrones 760 mm Sigmaplast                
+01 20 020 0840 BOPP20840      BOPP 20 micrones 840 mm                           
+01 20 020 0880 BOPP20880      BOPP 20 micrones 880 mm.                          
+01 20 020 0881 SBOPP20880     BOPP 20 micrones 880 mm Sigmaplast                
+01 20 030 0525 SBOPP30524     BOPP 30 micrones 524 mm Sigmaplast                
+01 20 030 0621 SBOPP30620     BOPP 30 micrones 620  mm Sigmaplast               
+01 20 030 0660 BOPP30660      BOPP 30 micrones 660 mm.                          
+01 20 030 0661 SBOPP30660     BOPP 30 micrones 660 mm Sigmaplast                
+01 20 030 0720 BOPP30720      BOPP 30 micrones 720 mm.                          
+01 20 030 0721 SBOPP30720     BOPP 30 micrones 720 mm Sigmaplast                
+01 20 030 0761 SBOPP30760     BOPP 30 micrones 760 mm Sigmaplast                
+01 20 030 0801 SBOPP30800     BOPP 30 micrones 800 mm Sigmaplast                
+01 20 035 0461 SBOPP35460     BOPP 35 micrones 460 mm Sigmaplast                
+01 20 035 0620 BOPP35620      BOPP 35 micrones 620 mm                           
+01 20 035 0621 SBOPP35620     BOPP 35 micrones 620 mm Sigmaplast                
+01 20 035 0761 SBOPP35760     BOPP 35 micrones 760 mm Sigmaplast                
+01 20 040 0003 SCASTBOPP40520 CAST BOPP 40 micrones 520 mm Sigmaplast           
+01 22 025 0720 PB25720        PB 25 Micrones 720 mm                             
+01 22 030 0720 PB30720        PB 30 micrones 720 mm                             
+01 24 015 0661 SPMET15660     PMET 15 micrones 660 mm Sigmaplast                
+01 24 017 0720 PMET17720      PMET 17 Micrones 720 mm                           
+01 24 020 0525 PMET20525      PMET 20 micrones 525 mm                           
+01 24 020 0526 SPMET20525     PMET 20 micrones 525 mm Sigmaplast                
+01 24 020 0620 PMET20620      PMET 20 micrones 620 mm                           
+01 24 020 0621 SPMET20620     PMET 20 micrones 620 mm Sigmaplast                
+01 24 020 0661 SPMET20660     PMET 20 micrones 660 mm Sigmaplast                
+01 24 020 0691 SPMET20690     PMET 20 micrones 690 mm Sigmaplast                
+01 24 020 0721 SPMET20720     PMET 20 micrones 720 mm Sigmaplast                
+Proveedor: SINCLAIR         Sinclair S.A.                                     
+03 08 001 0001 TSBLAN1        Tinta Blanca Superficie                           
+03 08 004 0001 TSAMAR1        Tinta Amarilla Superficie                         
+03 08 004 0002 AMARCRO        Tinta Amarillo Cromo Superficie                   
+03 08 010 0001 TSROJA1        Tinta Roja Medio Superficie                       
+03 08 010 0002 TSROJA2        Tinta Roja Escarlata Superficie                   
+03 08 025 0001 TSAZUL1        Tinta Azul Superficie Oscuro                      
+03 08 031 0001 TSVERD1        Tinta Verde Superficie                            
+03 08 034 0001 TSNEGR1        Tinta Negra Superficie                            
+03 08 052 0001 TSPMAG1        Tinta Magenta Process Superficie                  
+03 08 054 0001 TSPCYAN1       Tinta Cyan Process Superficie                     
+03 12 001 0001 TLBLAN1        Tinta Blanca Laminaci¢n                           
+03 12 007 0001 TLNARA1        Tinta Naranja Laminaci¢n                          
+03 12 010 0002 TLROJA2        Tinta Roja Escarlata Laminaci¢n                   
+03 12 034 0001 TLNEGR1        Tinta Negra Laminaci¢n                            
+03 12 050 0001 TLPAMA1        Tinta Amarilla Process Laminaci¢n                 
+03 12 052 0001 TLPMAG1        Tinta Magenta Process Laminaci¢n                  
+03 15 012 0001 LACA           Laca                                              
+Proveedor: SUNRISE          Sunrise Packaging Material (Jiangyin) Co,.Ltd     
+01 51 080 0520 PAPE80520      Bopa/PE 80 micras 520 mm                          
+01 51 100 0660 PAEVOHPE100660 Bopa/EVOH/PE 100 micras 660 mm                    
+01 51 120 0660 PAEVOHPP120660 Bopa/EVOH/PP 120 micras 660 mm                    
+Proveedor: TERPHANE         Terphane Ltda                                     
+01 36 012 0800 PET12800       PET 12 micrones 800 mm.                           
+01 38 012 0800 PETM12760      PET MET 12 micrones 760 mm.                       
+Proveedor: TRUPAL S.A       Trupal S.A.                                       
+01 01 001 0006 LDPE-TRICAPA   Polietileno Tricapa 90-670mm                      
+Proveedor: TUCUMAN          Papelera Tucuman                                  
+01 60 052 0740 PAP63740       Papel Bond 63 gr/m2 740 mm                        
+Proveedor: UFLEX LTD        UFLEX LIMITED                                     
+01 20 025 0002 CASTBOPP25720  CAST Bopp 25 micrones 720 mm                      
+01 36 012 0640 PET12640       Pet 12 micrones 640mm                             
+01 38 012 0660 PETM12660      PET MET 12 micrones 660 mmm                       
+01 38 012 0800 PETM12760      PET MET 12 micrones 760 mm.                       
+01 39 018 0580 PETTWIST18580  Pet Twist 18 micrones 580 mm                      
+Proveedor: VIADEZ           VIADEZ Import-Export                              
+03 50 900 0010 VALCAFE20      Valvula de gas para caf‚ 20 mm                    
+Proveedor: VITOPEL          VITOPEL S.A.                                      
+01 20 020 0460 BOPP20460      Bopp 20 micrones 460 mm                           
+01 20 020 0515 BOPP20515      BOPP 20 micrones 515 mm                           
+01 20 020 0525 BOPP20525      BOPP 20 micrones 525 mm                           
+01 20 020 0570 BOPP20570      BOPP 20 micrones 570 mm                           
+01 20 020 0620 BOPP20620      BOPP 20 micrones 620 mm                           
+01 20 020 0660 BOPP20660      BOPP 20 micrones 660 mm.                          
+01 20 020 0720 BOPP20720      BOPP 20 micrones 720 mm.                          
+01 20 020 0760 BOPP20760      BOPP 20 micrones 760 mm.                          
+01 20 020 0840 BOPP20840      BOPP 20 micrones 840 mm                           
+01 20 020 0880 BOPP20880      BOPP 20 micrones 880 mm.                          
+01 20 030 0524 BOPP30524      BOPP 30 micrones 524 mm.                          
+01 20 030 0660 BOPP30660      BOPP 30 micrones 660 mm.                          
+01 20 035 0460 BOPP35460      BOPP 35 micrones 460 mm                           
+01 20 035 0620 BOPP35620      BOPP 35 micrones 620 mm                           
+01 20 035 0760 BOPP35760      BOPP 35 micrones 760 mm.                          
+01 24 017 0720 PMET17720      PMET 17 Micrones 720 mm                           
+01 24 020 0525 PMET20525      PMET 20 micrones 525 mm                           
+01 24 020 0620 PMET20620      PMET 20 micrones 620 mm                           
+01 24 020 0660 PMET20660      PMET 20 micrones 660 mm                           
+01 24 020 0690 PMET20690      PMET 20 micrones 690 mm.                          
+01 24 020 0720 PMET20720      PMET 20 micrones 720 mm.                          
+01 24 020 0840 PMET20840      PMET 20 micrones 840 mm

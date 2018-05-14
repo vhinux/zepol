@@ -1,0 +1,342 @@
+,Nimero,                Descripcin, Cidigo,Existencia,unidad, Ultima modificaciin
+0,01 01 001 0001, Polietileno de baja densidad,  LDPE-1,0.0,kg,    ANA      17/10/02 10:09
+1,01 01 001 0002, Polietileno de baja termocontraible,  LDPE-2,812.2,kg,    ANA      17/10/02 10:09
+2,01 01 001 0003, Polietileno Extruido,  LDPE-3,0.0,kg,    BEATRIZ  02/03/06 12:22
+3,01 01 001 0004, Polietileno de Baja densidad Lineal,  LDPE-LINEAL,63.3,kg,    BEATRIZ  27/01/09 10:09
+4,01 01 001 0005, LDPE Pemex PX20020 P,  LDPEPEMEX,96.7,kg,    BEATRIZ  17/05/12 17:35
+5,01 01 001 0006, Polietileno Tricapa 90-670mm,  LDPE-TRICAPA,0.0,kg,    BEATRIZ  26/10/09 15:26
+6,01 01 001 0008, LDPE Polisur 230M,  LDPEPOLISUR,0.0,kg,    BEATRIZ  23/04/12 16:28
+7,01 01 001 0009, Polietileno Varios Extruido,  LDPE-VAR,2083.3,kg,    APRIETO  04/02/11 15:37
+8,01 01 001 0010, LDPE Lotrene,  LDPELOTRENE,25.0,kg,    BEATRIZ  30/03/12 16:55
+9,01 01 001 0011, LDPE INNOPLUS LD 2426 H,  LDPEINNOPLUS,0.0,kg,    BEATRIZ  30/03/12 16:55
+10,01 01 001 0012, Polietileno Fuera de Grado,  LDPEF-GRADO,0.0,kg,    BEATRIZ  30/05/12 16:38
+11,01 01 001 0013, LDPE BRASKEM EB853,  LDPE-BRASKEM,17191.4,kg,    BEATRIZ  26/06/12 15:59
+12,01 01 001 0014, LDPE DOW 586A,  LDPE DOWN586A,0.0,kg,    BEATRIZ  30/09/13 13:53
+13,01 01 001 0015, Polietileno Extruido Blanco,  LDPE-4,0.0,kg,    BEATRIZ  25/07/14 13:33
+14,01 01 001 0016, Polietileno Lineal Proxess 1806 S3,  PELINPROXESS,699.2,kg,    CLEON    19/12/16 15:10
+15,01 01 001 0017, Polietileno Dow611A,  LDPE-DOW611A,0.0,kg,    BEATRIZ  21/03/18 10:57
+16,01 01 011 0001, Polietileno de alta densidad,  HDPE-1,969.7,kg,    ANA      17/10/02 10:09
+17,01 01 021 0001, Polietileno de alta densidad lineal,  LLDPE-1,0.0,kg,    ANA      17/10/02 10:09
+18,01 01 031 0001, Polietileno Metaloceno,  PEMET-1,443.6,kg,    ANA      17/10/02 10:09
+19,01 01 051 0001, Polietileno recuperado,  LDPESAL,0.0,kg,    ANA      24/03/03 15:09
+20,01 01 901 0004, Aditivo UV,  ADITUV,16.8,kg,    PACO     06/04/06 14:08
+21,01 01 901 0005, Aditivo de Purga,  ADITPURGA,0.0,kg,    BEATRIZ  27/10/09 12:04
+22,01 01 901 0006, Antioxidante,  ANTIOXIDANTE,0.0,kg,    BEATRIZ  27/10/09 12:10
+23,01 01 901 0007, Aditivo Biodegradable,  ADITBIODEG,0.0,kg,    BEATRIZ  17/01/13 15:09
+24,01 03 001 0001, Poliestireno,  PESTIR-1,0.0,kg,    PACO     01/07/03 17:17
+25,01 15 030 0360, PP 30 micras 360mm,  PP30360,0.0,kg,    PACO     07/07/05 15:10
+26,01 15 030 0530, PP 30 micras 530mm,  PP30530,0.0,kg,    PACO     15/12/05 11:55
+27,01 16 020 0520, BOPP MATE 20 micrones 520 mm,  BOPPMATE20520,948.8,kg,    BEATRIZ  08/06/16 18:43
+28,01 16 020 0620, BOPP MATE 20 micrones 620 mm,  BOPPMATE20620,1151.5,kg,    BEATRIZ  25/07/14 13:13
+29,01 16 020 0660, BOPP MATE 20 micrones 660 mm,  BOPPMATE20660,965.5,kg,    BEATRIZ  12/01/15 10:37
+30,01 20 015 0620, Bopp 15 Micrones 620 mm,  BOPP15620,450.2,kg,    CLEON    25/05/17  9:38
+31,01 20 015 0660, BOPP 15 Micrones 660 mm Sigmaplast,  SBOPP15660,1030.3,kg,    BEATRIZ  10/04/17 15:48
+32,01 20 015 0661, Bopp 15 Micrones 660 mm,  BOPP15660,794.0,kg,    CLEON    25/05/17  9:55
+33,01 20 015 0980, Bopp 15 Micrones 980 mm,  BOPP15980,53.6,kg,    CLEON    25/05/17  9:40
+34,01 20 017 0620, Bopp 17 Micrones 620 mm,  BOPP17620,547.8,kg,    BEATRIZ  28/04/14 17:39
+35,01 20 017 0660, BOPP MATE 17 micrones 660 mm,  BOPPMATE17660,0.0,kg,    APRIETO  12/10/10 17:36
+36,01 20 017 0661, Bopp Mate 17 micrones 660 mm reducido,  SBOPPMATE17660,0.0,kg,    BEATRIZ  20/03/18 12:28
+37,01 20 017 0720, BOPP MATE 17 micrones 720 mm,  BOPPMATE17720,0.0,kg,    APRIETO  12/10/10 17:38
+38,01 20 017 0760, BOPP MATE 17 micrones 760 mm,  BOPPMATE17760,208.6,kg,    BEATRIZ  25/10/11 15:36
+39,01 20 017 0761, Bopp Mate 17 micrones 760 mm reducido,  SBOPPMATE17760,430.9,kg,    BEATRIZ  26/03/18 14:44
+40,01 20 017 9999, BOPP MATE Varias Medidas,  BOPPMATEVAR,207.7,kg,    BEATRIZ  26/12/12 14:23
+41,01 20 018 0720, BOPP 18 micrones 720 mm,  BOPP18720,0.0,kg,    ANA      17/10/02 10:12
+42,01 20 018 9900, BOPP 18 micrones Varias Medidas,  BOPP18V,0.0,kg,    ANA      17/10/02 10:12
+43,01 20 020 0000, BOPP 20 micrones 1000 mm.,  BOPP201000,0.0,kg,    BEATRIZ  02/03/06 11:56
+44,01 20 020 0005, CAST BOPP 20 micrones 520 mm,  CASTBOPP20520,953.2,kg,    BEATRIZ  16/05/16 16:29
+45,01 20 020 0460, Bopp 20 micrones 460 mm,  BOPP20460,1121.1,kg,    BEATRIZ  11/06/14 11:21
+46,01 20 020 0461, BOPP 20 micrones 460 mm Sigmaplast,  SBOPP20460,1120.8,kg,    CLEON    23/06/17 10:21
+47,01 20 020 0515, BOPP 20 micrones 515 mm,  BOPP20515,832.8,kg,    BEATRIZ  30/03/12 16:55
+48,01 20 020 0516, BOPP 20 micrones 515 mm Sigmaplast,  SBOPP20515,1834.7,kg,    BEATRIZ  17/04/17 11:07
+49,01 20 020 0520, BOPP 20 micrones 520 mm,  BOPP20520,0.0,kg,    BEATRIZ  15/07/08 12:17
+50,01 20 020 0525, BOPP 20 micrones 525 mm,  BOPP20525,4015.6,kg,    APRIETO  12/10/10 17:30
+51,01 20 020 0526, BOPP 20 micrones 525 mm Sigmaplast,  SBOPP20525,590.2,kg,    CLEON    23/06/17 10:20
+52,01 20 020 0570, BOPP 20 micrones 570 mm,  BOPP20570,0.0,kg,    BEATRIZ  14/09/06 14:15
+53,01 20 020 0571, BOPP 20 micrones 570 mm Sigmaplast,  SBOPP20570,0.0,kg,    BEATRIZ  17/04/17 11:08
+54,01 20 020 0600, BOPP 20 micrones 600 mm.,  BOPP20600,0.0,kg,    BEATRIZ  13/02/06 11:05
+55,01 20 020 0620, BOPP 20 micrones 620 mm,  BOPP20620,2460.8,kg,    BEATRIZ  08/12/05 10:27
+56,01 20 020 0621, BOPP 20 micrones 620 mm Sigmaplast,  SBOPP20620,20.2,kg,    CLEON    23/06/17 10:19
+57,01 20 020 0660, BOPP 20 micrones 660 mm.,  BOPP20660,0.0,kg,    ANA      17/10/02 10:12
+58,01 20 020 0661, BOPP 20 micrones 660 mm Sigmaplast,  SBOPP20660,0.0,kg,    BEATRIZ  17/04/17 11:10
+59,01 20 020 0680, BOPP 20 micrones 680 mm,  BOPP20680,0.0,kg,    BEATRIZ  10/08/06 16:47
+60,01 20 020 0720, BOPP 20 micrones 720 mm.,  BOPP20720,1468.3,kg,    ANA      17/10/02 10:12
+61,01 20 020 0721, BOPP 20 micrones 720 mm Sigmaplast,  SBOPP20720,0.0,kg,    BEATRIZ  17/04/17 11:05
+62,01 20 020 0760, BOPP 20 micrones 760 mm.,  BOPP20760,111.2,kg,    ANA      17/10/02 10:12
+63,01 20 020 0761, BOPP LH 20 micrones 760 mm,  BOPPLH20760,3138.0,kg,    BEATRIZ  25/10/11 15:47
+64,01 20 020 0762, BOPP LH 20 micrones 620 mm,  BOPPLH20620,1837.0,kg,    BEATRIZ  18/10/13 13:05
+65,01 20 020 0763, BOPP 20 micrones 760 mm Sigmaplast,  SBOPP20760,1388.7,kg,    BEATRIZ  17/04/17 11:09
+66,01 20 020 0840, BOPP 20 micrones 840 mm,  BOPP20840,1366.6,kg,    JIGNACIO 30/12/16 12:25
+67,01 20 020 0880, BOPP 20 micrones 880 mm.,  BOPP20880,1675.6,kg,    ANA      17/10/02 10:12
+68,01 20 020 0881, BOPP 20 micrones 880 mm Sigmaplast,  SBOPP20880,533.0,kg,    BEATRIZ  17/04/17 11:12
+69,01 20 020 0980, BOPP 20 micrones 980 mm,  BOPP20980,0.0,kg,    BEATRIZ  30/03/12 17:06
+70,01 20 020 1030, BOPP 20 micrones 1030 mm.,  BOPP201030,260.8,kg,    ANA      17/10/02 10:12
+71,01 20 020 9900, BOPP 20 micrones Varias Medidas,  BOPP20V,1916.05,kg,    ANA      17/10/02 10:12
+72,01 20 025 0002, CAST Bopp 25 micrones 720 mm,  CASTBOPP25720,669.7,kg,    BEATRIZ  11/09/07 19:55
+73,01 20 025 0003, Cast Bopp 25 micras 620 mm,  CASTBOPP25620,1085.2,kg,    BEATRIZ  10/04/13 10:10
+74,01 20 030 0002, Cast Bopp 30 Micrones 520 mm,  CASTBOPP30520,451.0,kg,    BEATRIZ  28/05/15 12:00
+75,01 20 030 0003, CAST Bopp 30 micrones 660 mm,  CASTBOPP30660,2188.2,kg,    BEATRIZ  30/10/12 13:34
+76,01 20 030 0004, CAST Bopp 30 micrones 760 mm,  CASTBOPP30760,0.0,kg,    BEATRIZ  30/10/12 13:34
+77,01 20 030 0005, Cast Bopp 30 Micrones 520 mm reducido,  SCASTBOPP30520,941.4,kg,    BEATRIZ  20/03/18 12:40
+78,01 20 030 0006, Cast Bopp 30 micrones 760 mm reducido,  SCASTBOPP30760,997.6,kg,    BEATRIZ  21/03/18 10:49
+79,01 20 030 0524, BOPP 30 micrones 524 mm.,  BOPP30524,234.6,kg,    SMARCA   18/05/11 10:44
+80,01 20 030 0525, BOPP 30 micrones 524 mm Sigmaplast,  SBOPP30524,0.0,kg,    BEATRIZ  17/04/17 11:44
+81,01 20 030 0620, BOPP 30 micrones 620 mm,  BOPP30620,126.8,kg,    BEATRIZ  16/05/16 16:24
+82,01 20 030 0621, BOPP 30 micrones 620  mm Sigmaplast,  SBOPP30620,0.0,kg,    CLEON    02/05/17 11:26
+83,01 20 030 0660, BOPP 30 micrones 660 mm.,  BOPP30660,2023.6,kg,    BEATRIZ  16/05/05  9:32
+84,01 20 030 0661, BOPP 30 micrones 660 mm Sigmaplast,  SBOPP30660,7.6,kg,    CLEON    23/06/17 10:22
+85,01 20 030 0675, BOPP 30 micrones 675 mm.,  BOPP30675,0.0,kg,    ANA      17/10/02 10:12
+86,01 20 030 0720, BOPP 30 micrones 720 mm.,  BOPP30720,0.0,kg,    ANA      17/10/02 10:12
+87,01 20 030 0721, BOPP 30 micrones 720 mm Sigmaplast,  SBOPP30720,0.0,kg,    CLEON    23/06/17 10:22
+88,01 20 030 0760, BOPP 30 micrones 760 mm.,  BOPP30760,304.1,kg,    APRIETO  01/10/10 15:01
+89,01 20 030 0761, BOPP 30 micrones 760 mm Sigmaplast,  SBOPP30760,0.0,kg,    CLEON    23/06/17 15:05
+90,01 20 030 0780, BOPP 30 micrones 780 mm,  BOPP30780,0.0,kg,    BEATRIZ  20/07/10  9:49
+91,01 20 030 0800, Bopp 30 micrones 800 mm,  BOPP30800,2067.6,kg,    BEATRIZ  11/06/14 11:11
+92,01 20 030 0801, BOPP 30 micrones 800 mm Sigmaplast,  SBOPP30800,0.0,kg,    CLEON    23/06/17 10:24
+93,01 20 030 0840, BOPP 30 micrones 840 mm,  BOPP30840,0.0,kg,    BEATRIZ  23/05/12 16:36
+94,01 20 030 0980, BOPP 30 micrones 980 mm,  BOPP30980,0.0,kg,    BEATRIZ  30/03/12 16:57
+95,01 20 030 1000, BOPP 30 micrones 1000 mm.,  BOPP301000,0.0,kg,    ANA      17/10/02 10:12
+96,01 20 030 9900, BOPP 30 micrones Varias Medidas,  BOPP30V,251.45,kg,    ANA      17/10/02 10:12
+97,01 20 035 0460, BOPP 35 micrones 460 mm,  BOPP35460,585.9,kg,    BEATRIZ  30/03/12 17:02
+98,01 20 035 0461, BOPP 35 micrones 460 mm Sigmaplast,  SBOPP35460,0.0,kg,    BEATRIZ  17/04/17 11:49
+99,01 20 035 0620, BOPP 35 micrones 620 mm,  BOPP35620,2895.6,kg,    APRIETO  21/01/10 16:33
+100,01 20 035 0621, BOPP 35 micrones 620 mm Sigmaplast,  SBOPP35620,0.0,kg,    BEATRIZ  17/04/17 12:00
+101,01 20 035 0760, BOPP 35 micrones 760 mm.,  BOPP35760,939.5,kg,    BEATRIZ  14/08/07 17:34
+102,01 20 035 0761, BOPP 35 micrones 760 mm Sigmaplast,  SBOPP35760,0.0,kg,    BEATRIZ  17/04/17 12:08
+103,01 20 035 0840, BOPP 35 micrones 840 mm,  BOPP35840,1239.4,kg,    CLEON    29/09/14 17:15
+104,01 20 035 0841, Bopp 35 Micrones 840 mm reducido,  SBOPP35840,0.0,kg,    BEATRIZ  20/03/18 12:29
+105,01 20 035 0920, BOPP 35 micrones 920 mm,  BOPP35920,0.0,kg,    BEATRIZ  11/05/06 11:27
+106,01 20 035 1000, BOPP 35 micrones 1000 mm.,  BOPP351000,0.0,kg,    ANA      17/10/02 10:12
+107,01 20 035 9900, BOPP 35 micrones Varias Medidas,  BOPP35V,0.9,kg,    SMARCA   21/05/12 14:53
+108,01 20 040 0001, CAST Bopp 40 micras 620 mm,  CASTBOPP40620,1026.2,kg,    BEATRIZ  25/07/14 12:42
+109,01 20 040 0002, CAST BOPP 40 micrones 520 mm,  CASTBOPP40520,2715.4,kg,    BEATRIZ  08/06/16 18:46
+110,01 20 040 0003, CAST BOPP 40 micrones 520 mm Sigmaplast,  SCASTBOPP40520,0.0,kg,    CLEON    02/05/17 11:28
+111,01 20 040 0800, BOPP 40 micrones 800 mm.,  BOPP40800,0.0,kg,    ANA      17/10/02 10:12
+112,01 20 040 1000, BOPP 40 micrones 1000 mm.,  BOPP401000,0.0,kg,    ANA      17/10/02 10:12
+113,01 20 040 9900, BOPP 40 micrones Varias Medidas,  BOPP40V,0.0,kg,    ANA      17/10/02 10:12
+114,01 22 025 0720, PB 25 Micrones 720 mm,  PB25720,0.0,kg,    BEATRIZ  20/04/05 12:15
+115,01 22 025 0721, PB 25 micrones 720 mm,  SPB25720,400.3,kg,    BEATRIZ  20/03/18 12:33
+116,01 22 025 9900, PB 25 Micrones Varias Medidas,  PB25V,241.65,kg,    SMARCA   19/09/12 11:35
+117,01 22 030 0720, PB 30 micrones 720 mm,  PB30720,3325.3,kg,    BEATRIZ  20/04/05 12:14
+118,01 22 030 0760, PB 30 micrones 760 mm.,  PB30760,0.0,kg,    ANA      17/10/02 10:12
+119,01 22 030 0830, PB 30 micrones 830 mm.,  PB30830,0.0,kg,    ANA      17/10/02 10:12
+120,01 22 030 9900, PB 30 micrones Varias Medidas,  PB30V,307.45,kg,    LLARA    20/11/02 17:26
+121,01 22 040 0720, PB 40 micrones 720 mm.,  PB40720,5.5,kg,    ANA      17/10/02 10:12
+122,01 22 040 0740, PB 40 micrones 740 mm,  PB40740,252.1,kg,    CLEON    21/12/17 17:35
+123,01 22 040 0750, PB 40 micrones 750 mm,  PB40750,32.7,kg,    BEATRIZ  07/06/11 13:29
+124,01 22 040 1000, PB 40 micrones 1000 mm.,  PB401000,0.0,kg,    ANA      17/10/02 10:12
+125,01 22 040 9900, PB 40 micrones Varias Medidas,  PB40V,31.25,kg,    ANA      17/10/02 10:12
+126,01 24 015 0660, PMET 15 micrones 660 mm,  PMET15660,1562.6,kg,    CLEON    11/05/17 16:13
+127,01 24 015 0661, PMET 15 micrones 660 mm Sigmaplast,  SPMET15660,1491.7,kg,    CLEON    23/06/17 10:18
+128,01 24 017 0720, PMET 17 Micrones 720 mm,  PMET17720,1017.9,kg,    BEATRIZ  28/04/14 17:41
+129,01 24 017 0760, PMET MEPRO 17 micrones 760 mm.,  PMETMEPRO17760,0.0,kg,    APRIETO  11/11/10 12:04
+130,01 24 018 0720, PMET 18 micrones 720 mm.,  PMET18720,0.0,kg,    ANA      17/10/02 10:12
+131,01 24 018 9900, PMET 18 micrones Varias Medidas,  PMET18V,0.0,kg,    ANA      17/10/02 10:12
+132,01 24 020 0525, PMET 20 micrones 525 mm,  PMET20525,2407.9,kg,    APRIETO  11/11/10  9:17
+133,01 24 020 0526, PMET 20 micrones 525 mm Sigmaplast,  SPMET20525,0.0,kg,    CLEON    23/06/17 10:10
+134,01 24 020 0620, PMET 20 micrones 620 mm,  PMET20620,387.8,kg,    PACO     25/10/05 14:39
+135,01 24 020 0621, PMET 20 micrones 620 mm Sigmaplast,  SPMET20620,0.0,kg,    CLEON    23/06/17 10:12
+136,01 24 020 0660, PMET 20 micrones 660 mm,  PMET20660,1679.2,kg,    BEATRIZ  11/06/14 11:13
+137,01 24 020 0661, PMET 20 micrones 660 mm Sigmaplast,  SPMET20660,0.0,kg,    CLEON    23/06/17 10:13
+138,01 24 020 0690, PMET 20 micrones 690 mm.,  PMET20690,423.1,kg,    BEATRIZ  14/09/06 14:17
+139,01 24 020 0691, PMET 20 micrones 690 mm Sigmaplast,  SPMET20690,0.0,kg,    CLEON    23/06/17 10:16
+140,01 24 020 0720, PMET 20 micrones 720 mm.,  PMET20720,2225.0,kg,    ANA      17/10/02 10:12
+141,01 24 020 0721, PMET 20 micrones 720 mm Sigmaplast,  SPMET20720,458.3,kg,    CLEON    23/06/17 10:17
+142,01 24 020 0840, PMET 20 micrones 840 mm,  PMET20840,843.0,kg,    BEATRIZ  23/05/12 16:37
+143,01 24 020 0980, PMET 20 micrones 980 mm,  PMET20980,0.0,kg,    BEATRIZ  30/03/12 16:56
+144,01 24 020 1000, PMET 20 micrones 1000 mm,  PMET201000,0.0,kg,    BEATRIZ  31/08/10 12:56
+145,01 24 020 9900, PMET 20 micrones Varias Medidas,  PMET20V,387.4,kg,    ANA      17/10/02 10:12
+146,01 28 001 0800, 85 AXT 800 mm,  85AXT800,0.0,kg,    ANA      17/10/02 10:12
+147,01 28 003 0800, 70 MLT 800 mm.,  70MLT800,345.52,kg,    ANA      17/10/02 10:12
+148,01 28 003 9900, 70 MLT Varias Medidas,  70MLTV,238.25,kg,    BEATRIZ  28/01/09 11:36
+149,01 28 006 0600, 110 ASB-X 600 mm.,  110ASBX600,0.0,kg,    ANA      17/10/02 10:12
+150,01 28 009 0600, 120 LTSC 600 mm.,  120LTSC600,836.15,kg,    ANA      17/10/02 10:12
+151,01 28 009 9900, 120 LTSC Varias Medidas,  120LTSCV,47.0,kg,    BEATRIZ  28/01/09 11:38
+152,01 28 015 0760, 35 MU 842 760 mm.,  35MU760,0.0,kg,    ANA      17/10/02 10:12
+153,01 28 018 0033, BIOFLEX -33520mm,  BIOFLEX,0.0,kg,             84/19/71  0:06
+154,01 28 025 0720, 250 ASW 720 mm.,  ASW720,314.1,kg,    BEATRIZ  02/03/07 18:49
+155,01 28 025 9999, ASW Varias Medidas,  ASWVARMEDIDAS,0.0,kg,    BEATRIZ  30/03/12 18:04
+156,01 28 999 9900, Polipropileno Especial Varias Medidas,  ESPV,23.85,kg,    ANA      06/11/02 17:48
+157,01 30 032 0820, PVC Transparente 32 micrones 820 mm.,  PVCT820,0.0,kg,    ANA      17/10/02 10:16
+158,01 30 032 9900, PVC Transparente 32 micrones Varias Medidas,  PVCTV,0.0,kg,    ANA      17/10/02 10:16
+159,01 33 032 0820, PVC Metalizado 32 micrones 820 mm.,  PVCM820,0.0,kg,    ANA      17/10/02 10:16
+160,01 33 032 9900, PVC Metalizado 32 micrones Varias Medidas,  PVCMV,0.0,kg,    ANA      17/10/02 10:16
+161,01 36 012 0520, PET 12 micrones 520 mm,  PET12520,701.8,kg,    CLEON    08/11/16 11:03
+162,01 36 012 0640, Pet 12 micrones 640mm,  PET12640,804.8,kg,    BEATRIZ  28/08/12 15:40
+163,01 36 012 0760, Pet 12 micrones 760mm,  PET12760,176.4,kg,    SMARCA   23/09/14 15:33
+164,01 36 012 0800, PET 12 micrones 800 mm.,  PET12800,0.0,kg,    BEATRIZ  30/05/05  9:05
+165,01 36 012 0830, Pet 12 micrones 830 mm,  PET12830,620.6,kg,    BEATRIZ  07/07/14 13:35
+166,01 36 012 9900, Pet 12 Micrones Varias Medidas,  PET12V,366.7,kg,    BEATRIZ  28/01/09 11:37
+167,01 37 012 0760, PET MATE 12 micrones 760 mm,  PETMATE12760,2983.9,kg,    BEATRIZ  07/07/14 14:27
+168,01 38 012 0520, PET MET 12 micrones 520 mm,  PETM12520,207.3,kg,    CLEON    08/11/16 11:05
+169,01 38 012 0521, PET MET 12 micrones 520 mm reducido,  SPETM12520,438.4,kg,    BEATRIZ  20/03/18 12:34
+170,01 38 012 0660, PET MET 12 micrones 660 mmm,  PETM12660,1794.9,kg,    BEATRIZ  24/08/12 17:52
+171,01 38 012 0800, PET MET 12 micrones 760 mm.,  PETM12760,1864.2,kg,    PACO     16/08/05 16:08
+172,01 38 012 9900, PET MET 12 Micrones Varias Medias,  PETM12V,299.5,kg,    BEATRIZ  28/01/09 11:38
+173,01 39 018 0580, Pet Twist 18 micrones 580 mm,  PETTWIST18580,855.1,kg,    CLEON    29/09/14 17:10
+174,01 39 018 9900, PET TWIST 18 micrones Varias Medidas,  PETTIWISTVAR,430.0,kg,    BEATRIZ  31/03/17 12:24
+175,01 40 023 0720, 90 BIHD 720 mm.,  90BIHD720,0.0,kg,    ANA      17/10/02 10:16
+176,01 40 023 9900, 90 BIHD Varias Medidas,  90BIHDV,0.0,kg,    ANA      17/10/02 10:16
+177,01 43 023 0720, 90 BIHD-M 720 mm.,  90BIHDM720,0.0,kg,    ANA      17/10/02 10:16
+178,01 43 023 9900, 90 BIHD-M Varias Medidas,  90BIHDMV,0.0,kg,    ANA      17/10/02 10:16
+179,01 48 015 0520, Bopa 15 Micras 520 mm,  PA15520,0.0,kg,    BEATRIZ  10/09/09 12:59
+180,01 48 015 0521, Bopa 15 micras 520 mm reducido,  SPA15520,204.6,kg,    BEATRIZ  21/03/18 10:51
+181,01 48 015 0620, Bopa 15 Micras 620 mm,  PA15620,1106.8,kg,    BEATRIZ  10/09/09 12:59
+182,01 48 015 0720, Bopa 15 micras 720 mm.,  PA15720,0.0,kg,    PACO     14/03/06 14:25
+183,01 48 015 0721, Bopa 15 Micras 720 mm reducido,  SPA15720,0.0,kg,    BEATRIZ  21/03/18 10:52
+184,01 48 015 0760, Bopa 15 micras 760 mm,  PA15760,0.0,kg,    BEATRIZ  07/02/11  8:50
+185,01 48 015 9900, Bopa 15 Micras Varias Medidas,  PA15V,173.2,kg,    BEATRIZ  28/01/09 11:39
+186,01 49 015 0660, Bopa Metalizado 15 micras 660 mm,  PAMET15660,0.0,kg,    BEATRIZ  13/01/10 13:12
+187,01 50 015 9900, Polivac Varias Medidas,  POLIVAC,0.0,kg,    BEATRIZ  28/07/11 15:54
+188,01 51 080 0520, Bopa/PE 80 micras 520 mm,  PAPE80520,0.0,kg,    CLEON    29/09/17 16:15
+189,01 51 100 0660, Bopa/EVOH/PE 100 micras 660 mm,  PAEVOHPE100660,9.6,kg,    CLEON    29/09/17 16:17
+190,01 51 120 0660, Bopa/EVOH/PP 120 micras 660 mm,  PAEVOHPP120660,47.6,kg,    CLEON    29/09/17 16:19
+191,01 60 040 0800, Papel Rocalonde 40 gr/m2 800 mm.,  PAP40800,235.0,kg,    ANA      17/10/02 10:17
+192,01 60 052 0740, Papel Bond 63 gr/m2 740 mm,  PAP63740,63.45,kg,    PACO     27/09/05 16:16
+193,01 60 052 9900, Papel Bond 63 Varias Medidas,  PAP63V,0.0,kg,    BEATRIZ  28/01/09 11:40
+194,01 60 055 0001, Papel Afiche 60grs 740 mm,  PAFIC60740,31.2,kg,    SMARCA   15/01/15 11:47
+195,01 60 055 0370, Papel Afiche 60 grs 370 mm,  PAFIC60370,0.0,kg,    BEATRIZ  27/11/09 15:42
+196,01 60 062 0630, Papel/Aluminio/LDPE 630 mm,  PAP40/AL9/630M,1145.9,kg,    BEATRIZ  08/11/12 11:05
+197,01 60 062 0660, Papel/Aluminio/LDPE 660 mm,  PAP40/AL9/PELD,0.0,kg,    BEATRIZ  23/06/09  9:15
+198,01 60 062 0740, Papel/Aluminio/LDPE 740 mm,  PAP40/AL9/740,0.0,kg,    CLEON    09/11/17 16:11
+199,01 60 062 5074, Papel50/Aluminio/LDPE 740 mm,  PAP50/AL9/740,115.2,kg,    CLEON    09/11/17 16:16
+200,01 60 062 9900, Papel/Aluminio/LDPE Varias medidas,  PAP40/AL9/VAR,0.0,kg,    CLEON    01/11/17  9:36
+201,01 60 063 0620, Papel revestido 4010- 620mm,  PAP40/PE10/620,0.0,kg,    BEATRIZ  10/06/13 15:46
+202,01 60 063 0700, Papel Revestido 4020-700mm,  PAP40/PE20/700,18.2,kg,    BEATRIZ  12/11/14 18:07
+203,01 60 063 0740, Papel Revestido 4020-740mm,  PAP40/PE20/740,373.0,kg,    CLEON    17/08/17 17:56
+204,01 60 063 0770, Papel Revestido 4010 - 770 mm,  PAP40\PE10\770,1688.2,kg,    BEATRIZ  31/01/14 14:08
+205,01 60 063 9900, Papel Revestido 4020 Varias medidas,  PAP40/PE20/VAR,0.0,kg,    CLEON    01/11/17  9:37
+206,03 01 001 0001, Parafina para Papel,  TERM1595,5880.0,kg,    ANA      17/10/02 10:19
+207,03 04 011 0010, Masterbach Blanco,  MB01,133.5,kg,    ANA      17/10/02 10:29
+208,03 04 011 0070, Masterbach Naranja,  MB07,81.3,kg,    ANA      17/10/02 10:29
+209,03 04 011 0080, Bicarbonato de Sodio CT 208,  BICARBONATO,100.0,kg,    BEATRIZ  13/03/18  9:14
+210,03 04 011 0100, Masterbach Rojo,  MB10,46.3,kg,    ANA      17/10/02 10:29
+211,03 04 011 0120, Masterbach Azul,  MB12,71.8,kg,    CLEON    02/12/16  9:16
+212,03 04 011 0340, Masterbach Negro,  MB34,20.7,kg,    ANA      17/10/02 10:29
+213,03 08 001 0001, Tinta Blanca Superficie,  TSBLAN1,694.36,kg,    ANA      17/10/02 10:32
+214,03 08 004 0001, Tinta Amarilla Superficie,  TSAMAR1,0.0,kg,    ANA      17/10/02 10:32
+215,03 08 004 0002, Tinta Amarillo Cromo Superficie,  AMARCRO,0.0,kg,    PACO     31/10/02 15:54
+216,03 08 004 0003, Tinta Flexilam Amarillo Superficie,  TSFPAMA1,0.0,kg,    CLEON    31/07/17  9:52
+217,03 08 007 0001, Tinta Naranja Superficie,  TSNARA1,32.9,kg,    ANA      17/10/02 10:32
+218,03 08 007 0019, Tinta Naranja Windsor,  TWNARA19,134.05,kg,    PACO     03/05/06 14:38
+219,03 08 007 0020, Tinta Beige Windsor (Trimate),  TWBEIGE20,64.1,kg,    BEATRIZ  02/09/08  8:31
+220,03 08 010 0001, Tinta Roja Medio Superficie,  TSROJA1,162.59,kg,    ANA      17/10/02 10:32
+221,03 08 010 0002, Tinta Roja Escarlata Superficie,  TSROJA2,54.2,kg,    BEATRIZ  19/03/04  9:00
+222,03 08 010 0019, Tinta Roja Windsor,  TWROJO19,0.0,kg,    PACO     03/05/06 14:39
+223,03 08 013 0001, Tinta Rubine Red Superficie,  TSRUBI1,0.0,kg,    ANA      17/10/02 10:32
+224,03 08 016 0001, Tinta Rhodamine Red Superficie,  TSRODA1,0.0,kg,    ANA      17/10/02 10:32
+225,03 08 019 0001, Tinta Pirpura Superficie,  TSPURP1,7.3,kg,    ANA      17/10/02 10:32
+226,03 08 022 0001, Tinta Violeta Superficie,  TSVIOL1,29.0,kg,    ANA      17/10/02 10:32
+227,03 08 025 0001, Tinta Azul Superficie Oscuro,  TSAZUL1,0.0,kg,    BEATRIZ  19/03/04  9:00
+228,03 08 028 0001, Tinta Azul Reflex Superficie,  TSAZREF1,79.55,kg,    ANA      17/10/02 10:32
+229,03 08 031 0001, Tinta Verde Superficie,  TSVERD1,310.25,kg,    ANA      17/10/02 10:32
+230,03 08 034 0001, Tinta Negra Superficie,  TSNEGR1,98.84,kg,    BEATRIZ  19/03/04  9:00
+231,03 08 034 0002, TINTA ROTOCHEM NEGRA SUPERFICIE,  TSRNEGR1,17.15,kg,    BEATRIZ  31/03/17 12:22
+232,03 08 034 0003, Tinta Flexilam Negra Superficie,  TSFNEGR1,0.0,kg,    CLEON    31/07/17  9:47
+233,03 08 034 0019, Tinta Negra Windsor,  TWNEGR19,0.0,kg,    PACO     03/05/06 14:39
+234,03 08 050 0001, Tinta Amarilla Process Superficie,  TSPAMA1,135.57,kg,    ANA      17/10/02 10:32
+235,03 08 050 0019, Tinta Amarillo Process Windsor,  TWPAMA19,0.0,kg,    PACO     03/05/06 14:39
+236,03 08 052 0001, Tinta Magenta Process Superficie,  TSPMAG1,65.85,kg,    ANA      17/10/02 10:32
+237,03 08 052 0002, Tinta Flexilam Magenta Superficie,  TSFMAG1,0.0,kg,    CLEON    31/07/17  9:50
+238,03 08 054 0001, Tinta Cyan Process Superficie,  TSPCYAN1,243.7,kg,    ANA      17/10/02 10:32
+239,03 08 054 0002, Tinta Flexilam Cyan Superficie,  TSFCYAN1,0.0,kg,    CLEON    31/07/17  9:54
+240,03 08 054 0019, Tinta Cyan Process Windsor,  TWCYAN19,0.0,kg,    PACO     03/05/06 14:39
+241,03 08 100 0001, Tinta Oro Superficie,  TSORO1,33.1,kg,    ANA      17/10/02 10:32
+242,03 08 110 0001, Tinta Plata Superficie,  TSPLAT1,147.15,kg,    ANA      17/10/02 10:32
+243,03 08 900 0001, Tintas Varias Superficie,  TSVAR,4464.39,kg,    PACO     23/04/03 10:43
+244,03 09 001 0001, Tinta Hi Tone Negro Superficie,  TSHNEGRO,4.5,kg,    APRIETO  15/09/10 17:04
+245,03 09 001 0002, Tinta Hi Tone Amarillo Superficie,  TSHAMAR,0.0,kg,    APRIETO  15/09/10 17:06
+246,03 09 001 0003, Tinta Hi Tone Magenta Superficie,  TSHMAG,0.0,kg,    APRIETO  15/09/10 17:07
+247,03 09 001 0004, Tinta Hi Tone Cyan Superficie,  TSHCYAN,3.4,kg,    APRIETO  15/09/10 17:13
+248,03 11 001 0001, Tinta Hi Tone Negro Laminacion,  TLHNEGRO,0.0,kg,    APRIETO  15/09/10 17:18
+249,03 11 001 0002, Tinta Hi Tone Amarillo Proc Laminacion,  TLHAMAPRO,0.0,kg,    APRIETO  15/09/10 17:19
+250,03 11 001 0003, Tinta Hi Tone Magenta Laminacion,  TLHMAG,0.0,kg,    APRIETO  15/09/10 17:21
+251,03 11 001 0004, Tinta Hi Tone Cyan Laminacion,  TLHCYAN,0.0,kg,    APRIETO  15/09/10 17:22
+252,03 12 001 0001, Tinta Blanca Laminaciin,  TLBLAN1,786.77,kg,    ANA      17/10/02 10:32
+253,03 12 001 0002, Tinta Flexilam Blanca Laminacion,  TLFBLAN1,246.18,kg,    BEATRIZ  31/03/17 12:18
+254,03 12 001 0003, Tinta LamiPet Blanca Laminacion,  TLLPBLAN1,157.75,kg,    CLEON    19/01/18 10:36
+255,03 12 004 0001, Tinta PoliPrint 3.0 Amarillo Laminacion,  TLPPAMAR1,108.8,kg,    CLEON    19/01/18 10:29
+256,03 12 004 0002, Tinta Amarillo Cromo Laminaciin,  TLAMAR2,274.0,kg,    PACO     04/02/03 17:51
+257,03 12 004 0003, Tinta Laminacion Poliprint Magenta,  TLPPMAG1,106.35,kg,    BEATRIZ  20/02/18 17:51
+258,03 12 004 0004, Tinta Laminacion Poliprint Negra,  TLPNEGR1,92.1,kg,    BEATRIZ  20/02/18 17:52
+259,03 12 004 0005, TINTA LAMINACION POLIPRINT CYAN,  TLPPCYAN,16.1,kg,    BEATRIZ  20/02/18 17:54
+260,03 12 007 0001, Tinta Naranja Laminaciin,  TLNARA1,1.41,kg,    ANA      17/10/02 10:32
+261,03 12 010 0001, Tinta Roja Medio Laminaciin,  TLROJA1,3.21,kg,    ANA      17/10/02 10:32
+262,03 12 010 0002, Tinta Roja Escarlata Laminaciin,  TLROJA2,290.55,kg,    ANA      17/10/02 10:32
+263,03 12 013 0001, Tinta Rubine Red Laminaciin,  TLRUBI1,0.0,kg,    ANA      17/10/02 10:32
+264,03 12 016 0001, Tinta Rhodamine Red Laminaciin,  TLRODA1,0.0,kg,    ANA      17/10/02 10:32
+265,03 12 019 0001, Tinta Pirpura Laminaciin,  TLPURP1,27.1,kg,    ANA      17/10/02 10:32
+266,03 12 022 0001, Tinta Violeta Laminaciin,  TLVIOL1,27.65,kg,    ANA      17/10/02 10:32
+267,03 12 025 0001, Tinta Azul Laminaciin,  TLAZUL1,0.0,kg,    ANA      17/10/02 10:32
+268,03 12 028 0001, Tinta Azul Reflex Laminaciin,  TLAZREF1,147.78,kg,    ANA      17/10/02 10:32
+269,03 12 031 0001, Tinta Verde Laminaciin,  TLVERD1,0.0,kg,    ANA      17/10/02 10:32
+270,03 12 034 0001, Tinta Negra Laminaciin,  TLNEGR1,116.17,kg,    ANA      17/10/02 10:32
+271,03 12 050 0001, Tinta Amarilla Process Laminaciin,  TLPAMA1,283.1,kg,    ANA      17/10/02 10:32
+272,03 12 051 0001, Tinta Megafull Amarillo Process Laminaciin,  TLMPAMA1,0.0,kg,    CLEON    20/11/17 15:44
+273,03 12 052 0001, Tinta Magenta Process Laminaciin,  TLPMAG1,155.87,kg,    ANA      17/10/02 10:32
+274,03 12 054 0001, Tinta Cyan Process Laminaciin,  TLPCYAN1,238.68,kg,    ANA      17/10/02 10:32
+275,03 12 100 0001, Tinta Oro Laminaciin,  TLORO1,22.65,kg,    ANA      17/10/02 10:32
+276,03 12 110 0001, Tinta Plata Laminaciin,  TLPLAT1,19.85,kg,    ANA      17/10/02 10:32
+277,03 12 900 0001, Tintas Varias Laminaciin,  TLVAR,7339.49,kg,    PACO     23/04/03 10:44
+278,03 13 001 0001, Tinta Antiperixido Magenta Superficie,  TSAMAG1,58.0,kg,    CLEON    01/10/08 14:41
+279,03 13 001 0002, Tinta Antiperixido Cyan Superficie,  TSACYAN1,105.7,kg,    CLEON    17/10/08 16:50
+280,03 13 001 0003, Tinta Antiperixido Negro Superficie,  TSANEGR1,101.95,kg,    CLEON    17/10/08 16:51
+281,03 13 001 0004, Tinta Antiperixido Amarillo Superficie,  TSAAMA1,71.85,kg,    CLEON    17/10/08 16:51
+282,03 13 001 0005, Tinta Antiperixido Blanca Superficie,  TSABLAN1,74.4,kg,    BEATRIZ  26/06/12 15:57
+283,03 13 001 0006, Tinta Antiperoxido Azul Reflex Superficie,  TSAAZREF1,9.1,kg,    BEATRIZ  21/03/14 13:43
+284,03 15 001 0001, Extender Flexo Superficie,  EXTSUP,100.95,kg,    ANA      17/10/02 10:32
+285,03 15 003 0001, Extender Flexo Laminaciin,  EXTLAM,109.1,kg,    ANA      17/10/02 10:32
+286,03 15 005 0001, Extender Roto,  EXTROT,70.26,kg,    ANA      17/10/02 10:32
+287,03 15 007 0001, Extender PoliPrint Laminacion,  EXTPPLAM,0.0,kg,    CLEON    19/01/18 10:34
+288,03 15 008 0001, Primer,  PRIMER,130.0,kg,    ANA      17/10/02 10:32
+289,03 15 012 0001, Laca,  LACA,75.25,kg,    ANA      17/10/02 10:32
+290,03 18 001 0001, Alcohol Isopropilico,  IPA,480.0,kg,    ANA      17/10/02 10:33
+291,03 18 001 0010, Solvente para tintas,  SOLTIN,0.0, lts,    PACO     25/07/05 14:06
+292,03 18 004 0001, Alcohol Etilico,  ETANOL,0.0,kg,    ANA      17/10/02 10:33
+293,03 18 007 0001, Alcohol Propil Normal,  PROPANOL,0.0,kg,    ANA      17/10/02 10:33
+294,03 18 010 0001, Metanol,  METANOL,0.0,kg,    ANA      17/10/02 10:33
+295,03 18 020 0001, Butanol,  BUTANOL,0.0,kg,    ANA      17/10/02 10:33
+296,03 18 022 0001, DOP,  DOP,0.0,kg,    PACO     07/08/03 16:04
+297,03 18 100 0001, Acetato de Etilo,  ACETATO,76.5,kg,    ANA      17/10/02 10:33
+298,03 18 103 0001, Acetato Propil Normal,  ACEPROP,1102.05,kg,    ANA      17/10/02 10:33
+299,03 18 200 0001, Percloroetileno,  PERCLORO,0.0,kg,    ANA      17/10/02 10:33
+300,03 18 220 0001, Solvente lavado clisis,  SOLCLIS,0.0,kg,    ANA      17/10/02 10:33
+301,03 18 220 0005, Aditivo A,  ADITA,0.0,kg,    ANA      17/10/02 10:33
+302,03 18 220 0010, Aditivo B,  ADITB,0.0,kg,    ANA      17/10/02 10:33
+303,03 18 220 0015, Aditivo C,  ADITC,0.0,kg,    ANA      17/10/02 10:33
+304,03 18 220 0050, Recyl Clean,  RECLEAN,0.0,kg,    BPAREDES 23/06/15  9:36
+305,03 18 220 0054, Dowanol,  DOWAN,150.2,kg,    SMARCA   20/12/13  9:56
+306,03 22 001 0001, Adhesivo Poliuretano,  ADHPOLI,4687.91,kg,    ANA      17/10/02 10:34
+307,03 22 001 0003, Adhesivo Reticulante sin Solvente,  ADHRETI,3609.51,kg,    ANA      17/10/02 10:34
+308,03 22 001 0004, Adhesivo Correactant C-83,  ADHCORR,0.0,kg,    BEATRIZ  31/03/04 10:08
+309,03 50 001 0170," Fotopolimero de 1,70 mm",  FP170,166474.6, cm2,    ANA      17/10/02 10:35
+310,03 50 001 0254, Fotopolimero de 2.54 mm,  FP254,231457.97, cm2,    ANA      17/10/02 10:35
+311,03 50 001 0284, Fotopolmero de 2.84 mm,  FP284,86633.12, cm2,    ANA      17/10/02 10:35
+312,03 50 005 0012, Doble Faz .12 mm,  DF12,0.0, roll,o   ANA      17/10/02 10:35
+313,03 50 006 0038, Doble Faz .38 mm.,  DF38,0.0, roll,o   PACO     29/04/03 14:49
+314,03 50 007 0030, Doble Faz 0.30 m,  DF30,2.0, roll,o   BEATRIZ  19/04/06  9:34
+315,03 50 008 0050, Doble Faz Acolchado Baja Densidad .50 mm,  DFBD50,2.0, roll,o   ANA      17/10/02 10:35
+316,03 50 011 0050, Doble Faz Acolchado Media Densidad .50 mm,  DFMD50,0.0, roll,o   ANA      17/10/02 10:35
+317,03 50 014 0050, Doble Faz Acolchado Alta Densidad .50 mm,  DFAD50,3.0, roll,o   ANA      17/10/02 10:35
+318,03 50 100 0001," Cinta Adhesiva Transparente 2""",  CADHT,0.0, roll,o   ANA      17/10/02 10:35
+319,03 50 100 0005," Cinta Adhesiva Canela 2""",  CADHC,36.0, roll,o   ANA      17/10/02 10:35
+320,03 50 100 0006, Tesa Film Cinta de Embalaje 66Mx12mm (scotch tranp,  CADHTP,4.0, roll,o   ANA      18/11/02  9:14
+321,03 50 100 0007, Cinta Adhesiva Tesakrep,  TS4323,3.0,unidad,BEATRIZ  06/08/09  9:18
+322,03 50 120 0040, Rollo de pelicula 40 cm x 60 mt.,  PELI40,0.0, cm2,    PACO     18/07/05 14:28
+323,03 50 120 0041, Rollo de Pelicula HNM 83.80 x 60,  PELI83.80,499800.0, cm2,    BEATRIZ  12/12/06 11:09
+324,03 50 120 0042, Rollo de Pelicula HNM 50.80 x 60,  PELI50.80,304800.0, cm2,    BEATRIZ  12/12/06 11:10
+325,03 50 120 0059, Rollo de pelicula 30.5 cm x 60 mt.,  PELI59,354000.0, cm2,    PACO     21/06/05 17:34
+326,03 50 128 0005, Revelador para peliculas,  REVELA,0.0, lts,    PACO     21/06/05 17:35
+327,03 50 128 0010, Fijador para peliculas,  FIJADOR,21.0, lts,    PACO     21/06/05 17:35
+328,03 50 900 0005, Paios Azules,  PAiAZ,189.0,unidad,PACO     20/09/05 12:07
+329,03 50 900 0006, Zipper para Bolsas,  ZIPPER,447078.0, mts,    JIGNACIO 28/12/17 15:58
+330,03 50 900 0008, Valvula Corner 10 mm,  VALCOR10,49000.0,unidad,CLEON    19/12/16 14:59
+331,03 50 900 0009, Valvula Central 8 mm,  VALCEN8,54000.0,unidad,CLEON    19/12/16 15:00
+332,03 50 900 0010, Valvula de gas para cafi 20 mm,  VALCAFE20,39469.0,unidad,CLEON    19/12/16 15:00
+333,03 50 900 0011, Etiquetas Simsa 250 g 20x30mm,  ETIQSIMSA250G,0.0,unidad,CLEON    26/09/17 15:30
+334,03 50 900 0012, Etiquetas Sicomsur S/I 5x5cn,  ETIQSICOMSUR,0.0,unidad,CLEON    21/12/17 10:48
+335,05 05 001 0002, Propanol+Aceprop,  PAPA,0.0,kg,    BPAREDES 12/11/14 12:54
+336,80 01 651 0002, Scrap plistico,651002,0.0,kg,    BPAREDES 23/06/15 18:00
+337,99 99 998 0000, Repuestos,  REPUESTOS,0.0,,    PACO     23/04/03 11:47
+338,99 99 998 0001, Rasqueta Recta Flexolife 40.0 * 0.20 mm,9980001,1.0, pza,    BEATRIZ  09/09/09 10:56
+339,99 99 998 0002, Cuchillas CEELO Hoja Canto Redondo 0.4x60 mm,9980002,280.0, pza,    CLEON    20/02/17 11:15
+340,99 99 999 0000, Gustu Bolsas Polivac75 S/I,  NOITEM,0.0,,    JIGNACIO 28/12/17 16:11

@@ -1,0 +1,891 @@
+  1 00 00 00 000 0000 A C T I V O                                                                                                  N
+  1 01 00 00 000 0000   A C T I V O  C O R R I E N T E                                                                             N
+  1 01 01 00 000 0000     D I S P O N I B I L I D A D E S                                                                          N
+  1 01 01 01 000 0000       CAJA MONEDA NACIONAL                                                                                   N
+  1 01 01 01 002 0000         CAJA EL ALTO MN                                                                                      N
+  1 01 01 01 002 0001           CAJA EL ALTO MN                                                                        B           S
+  1 01 01 02 000 0000       CAJA MONEDA EXTRANJERA                                                                                 N
+  1 01 01 02 002 0000         CAJA EL ALTO ME                                                                                      N
+  1 01 01 02 002 0001           CAJA EL ALTO ME                                                                        D           S
+  1 01 01 03 000 0000       FONDO FIJO NO REPUESTO MN                                                                              N
+  1 01 01 03 002 0000         EL ALTO MN                                                                                           N
+  1 01 01 03 002 0001           FONDO FIJO EL ALTO MN                                                                  B           S
+  1 01 01 03 002 0002           FONDO FIJO LA PAZ MN                                                                   B           S
+  1 01 01 03 002 0003           FONDO FIJO PLANTA MN                                                                   B           S
+  1 01 01 04 000 0000       BANCOS MN                                                                                              N
+  1 01 01 04 001 0000         BANCOS NACIONALES MN                                                                                 N
+  1 01 01 04 001 0101           BANCO INDUSTRIAL MN 002651-001-5                                                       B           S
+  1 01 01 04 001 0102           BANCO NACIONAL DE BOLIVIA MN 100-0204443                                               B           S
+  1 01 01 04 001 0103           BANCO UNION CTA CTE MN 1-4312132                                                       B           S
+  1 01 01 04 001 0104           BANCO NACIONAL DE BOLIVIA MN 1000286172                                                B           S
+  1 01 01 05 000 0000       BANCOS ME                                                                                              N
+  1 01 01 05 001 0000         BANCOS NACIONALES ME                                                                                 N
+  1 01 01 05 001 0105           BANCO MERCANTIL ME 4010058556                                                          D           S
+  1 01 01 05 001 0106           BANCO INDUSTRIAL ME 2651-201-8                                                         D           S
+  1 01 01 05 001 0107           BANCO NACIONAL DE BOLIVIA ME 140-0595174                                               D           S
+  1 01 01 05 001 0108           BANCO UNION CTA CTE ME 2-4312140                                                       D           S
+  1 01 02 00 000 0000     E X I G I B L E                                                                                          N
+  1 01 02 01 000 0000       CLIENTES MN                                                                                            N
+  1 01 02 01 002 0000         CLIENTES EL ALTO MN                                                                                  N
+  1 01 02 01 002 0001           CLIENTES EL ALTO MN                                                                    B           S
+  1 01 02 02 000 0000       CLIENTES ME                                                                                            N
+  1 01 02 02 001 0000         CLIENTES LA PAZ ME                                                                                   N
+  1 01 02 02 001 0101           CLIENTES LA PAZ ME                                                                     D           S
+  1 01 02 02 002 0000         CLIENTES EL ALTO ME                                                                                  N
+  1 01 02 02 002 0001           CLIENTES EL ALTO ME                                                                    D           S
+  1 01 02 03 000 0000       CUENTAS POR COBRAR MN                                                                                  N
+  1 01 02 03 001 0000         CUENTAS POR COBRAR MN                                                                                N
+  1 01 02 03 001 0001           CUENTAS POR COBRAR MN                                                                  B           S
+  1 01 02 04 000 0000       CUENTAS POR COBRAR ME                                                                                  N
+  1 01 02 04 001 0000         CUENTAS POR COBRAR ME                                                                                N
+  1 01 02 04 001 0001           CUENTAS POR COBRAR ME                                                                  D           S
+  1 01 02 05 000 0000       ANTICIPO COMPRA DE BIENES Y SERV. MN                                                                   N
+  1 01 02 05 001 0000         ANTICIPO COMPRA DE BIENES Y SERV. MN                                                                 N
+  1 01 02 05 001 0001           ANTICIPO A PROVEEDORES MN                                                              B           S
+  1 01 02 05 001 0002           ANTICIPO A VARIOS MN                                                                   B           S
+  1 01 02 06 000 0000       ANTICIPO COMPRA BIENES Y SERV. ME                                                                      N
+  1 01 02 06 001 0000         ANTICIPO COMPRA BIENES Y SERV. ME                                                                    N
+  1 01 02 06 001 0001           ANTICIPO A PROVEEDORES ME                                                              D           S
+  1 01 02 06 001 0002           ANTICIPO A VARIOS ME                                                                   D           S
+  1 01 02 07 000 0000       DOCUMENTOS POR COBRAR MN                                                                               N
+  1 01 02 07 001 0000         DOCUMENTOS POR COBRAR MN                                                                             N
+  1 01 02 07 001 0001           DOCUMENTOS POR COBRAR MN                                                               B           S
+  1 01 02 07 001 0002           DOCUMENTOS POR COBRAR DESCONTADOS MN                                                   B           S
+  1 01 02 08 000 0000       DOCUMENTOS POR COBRAR ME                                                                               N
+  1 01 02 08 001 0000         DOCUMENTOS POR COBRAR ME                                                                             N
+  1 01 02 08 001 0001           DOCUMENTOS POR COBRAR ME                                                               D           S
+  1 01 02 09 000 0000       ANTICIPOS AL PERSONAL MN                                                                               N
+  1 01 02 09 001 0000         ANTICIPOS AL PERSONAL MN                                                                             N
+  1 01 02 09 001 0001           ANTICIPO HABERES AL PERSONAL MN                                                        B           S
+  1 01 02 09 001 0002           PRESTAMOS AL PERSONAL MN                                                               B           S
+  1 01 02 09 001 0003           OTROS AL PERSONAL MN                                                                   B           S
+  1 01 02 10 000 0000       DERECHOS IMPOSITIVOS MN                                                                                N
+  1 01 02 10 001 0000         DERECHOS IMPOSITIVOS MN                                                                              N
+  1 01 02 10 001 0001           CREDITO FISCAL IVA MN                                                                  B           S
+  1 01 02 10 001 0002           IUE POR COMPESAR MN                                                                    B           S
+  1 01 02 10 001 0003           OTROS IMPTOS. A FAVOR MN                                                               B           S
+  1 01 02 10 001 0004           CREDITO FISCAL POR IMPORTACIONES                                                       B           S
+  1 01 02 10 001 0005           .                                                                                                  N
+  1 01 02 13 000 0000       DEUDAS EN MORA MN                                                                                      N
+  1 01 02 13 001 0000         DEUDAS EN MORA MN                                                                                    N
+  1 01 02 13 001 0001           CLIENTES EN MORA MN                                                                    B           S
+  1 01 02 13 001 0002           CUENTAS POR COBRAR EN MORA MN                                                          B           S
+  1 01 02 14 000 0000       DEUDAS EN MORA ME                                                                                      N
+  1 01 02 14 001 0000         DEUDAS EN MORA ME                                                                                    N
+  1 01 02 14 001 0001           CLIENTES EN MORA ME                                                                    D           S
+  1 01 02 14 001 0002           CUENTAS POR COBRAR EN MORA ME                                                          D           S
+  1 01 02 15 000 0000       DEUDAS INCOBRABLES MN                                                                                  N
+  1 01 02 15 001 0000         DEUDAS INCOBRABLES MN                                                                                N
+  1 01 02 15 001 0001           CLIENTES INCOBRABLES MN                                                                B           S
+  1 01 02 15 001 0002           CUENTAS POR COBRAR INCOBRABLES MN                                                      B           S
+  1 01 02 16 000 0000       DEUDAS INCOBRABLES ME                                                                                  N
+  1 01 02 16 001 0000         DEUDAS INCOBRABLES ME                                                                                N
+  1 01 02 16 001 0001           CLIENTES INCOBRABLES ME                                                                D           S
+  1 01 02 16 001 0002           CUENTAS POR COBRAR INCOBRABLES ME                                                      D           S
+  1 01 02 98 000 0000       OTRAS CUENTAS PENDIENTES DE COBRO MN                                                                   N
+  1 01 02 98 001 0000         OTRAS CUENTAS PENDIENTES DE COBRO MN                                                                 N
+  1 01 02 98 001 0001           OTRAS CUENTAS PENDIENTES DE COBRO MN                                                   B           S
+  1 01 02 99 000 0000       OTRAS CUENTAS PENDIENTES DE COBRO ME                                                                   N
+  1 01 02 99 001 0000         OTRAS CUENTAS PENDIENTES DE COBRO ME                                                                 N
+  1 01 02 99 001 0001           OTRAS CUENTAS PENDIENTES DE COBRO ME                                                   D           S
+  1 01 03 00 000 0000     R E A L I Z A B L E                                                                                      N
+  1 01 03 01 000 0000       MATERIA PRIMA                                                                                          N
+  1 01 03 01 005 0000         MATERIA PRIMA ENV.FLEXIBLES                                                                          N
+  1 01 03 01 005 0001           POLIETILENO                                                                            D           S
+  1 01 03 01 005 0002           POLIPROPILENO                                                                          D           S
+  1 01 03 01 005 0003           POLIESTER (PET)                                                                        D           S
+  1 01 03 01 005 0004           PAPEL                                                                                  D           S
+  1 01 03 01 005 0005           PARAFINA                                                                               D           S
+  1 01 03 01 005 0006           PVC                                                                                    D           S
+  1 01 03 01 005 0007           VARIOS MAT.PRIMA ENV.FLEXIBLES                                                         D           S
+  1 01 03 01 005 0101           TINTAS - EXTENDER                                                                      D           S
+  1 01 03 01 005 0102           SOLVENTES                                                                              D           S
+  1 01 03 01 005 0103           ADHESIVOS                                                                              D           S
+  1 01 03 01 005 0104           FOTOPOLIMEROS                                                                          D           S
+  1 01 03 01 005 0105           MASTERBATCH                                                                            D           S
+  1 01 03 02 000 0000       MATERIALES                                                                                             N
+  1 01 03 02 005 0000         MATERIALES PARA ENV.FLEXIBLES                                                                        N
+  1 01 03 02 005 0001           ENVASES PARA ENV.FLEXIBLES                                                             D           S
+  1 01 03 02 005 0002           EMPAQUES PARA ENV.FLEXIBLES                                                            D           S
+  1 01 03 02 005 0003           VARIOS MATERIALES PARA ENV.FLEXIBLES                                                   D           S
+  1 01 03 03 000 0000       DESPERDICIOS MATERIA PRIMA Y MATERIALES                                                                N
+  1 01 03 03 005 0000         DESPERDICIOS ENV.FLEXIBLES                                                                           N
+  1 01 03 03 005 0001           DESPERDICIOS MATERIA PRIMA ENV.FLEXIBLES                                               D           S
+  1 01 03 03 005 0002           DESPERDICIOS MATERIALES ENV.FLEXIBLES                                                  D           S
+  1 01 03 03 005 0003           DESPERDICIOS VARIOS ENV.FLEXIBLES                                                      D           S
+  1 01 03 04 000 0000       PRODUCTOS TERMINADOS                                                                                   N
+  1 01 03 04 001 0000         PRODUTOS EN PROCESO                                                                                  N
+  1 01 03 04 001 0101           PRODUCTO EN PROCESO - FAB.LA ESTRELLA                                                  D           S
+  1 01 03 04 001 0102           PRODUCTO EN PROCESO - OTROS CLIENTES                                                   D           S
+  1 01 03 04 001 0103           .                                                                                      D           N
+  1 01 03 04 002 0000         .                                                                                                    N
+  1 01 03 04 002 0101           .                                                                                      D           N
+  1 01 03 04 002 0102           .                                                                                      D           N
+  1 01 03 04 002 0103           .                                                                                      D           N
+  1 01 03 04 002 0104           .                                                                                      D           N
+  1 01 03 04 003 0000         .                                                                                                    N
+  1 01 03 04 003 0105           .                                                                                      D           N
+  1 01 03 04 005 0000         PRODUCTOS ENV.FLEXIBLES                                                                              N
+  1 01 03 04 005 0001           ENV.FLEXIBLES FAB. LA ESTRELLA                                                         D           S
+  1 01 03 04 005 0002           ENV.FLEXIBLES OTROS CLIENTES                                                           D           S
+  1 01 03 04 005 0003           INV.CLISE                                                                              D           S
+  1 01 03 05 000 0000       PRODUCTOS TERMINADOS DEFECTUOSOS                                                                       N
+  1 01 03 05 005 0000         PRODUCTOS DEFECTUOSOS ENV.FLEXIBLES                                                                  N
+  1 01 03 05 005 0001           DEFECTUOSOS ENV.FLEXIBLES FAB.LA ESTRELLA                                              D           S
+  1 01 03 05 005 0002           DEFECTUOSOS ENV.FLEXIBLES OTROS CLIENTES                                               D           S
+  1 01 03 05 005 0003           DEFECTUOSOS ENV.FLEXIBLES VARIOS                                                       D           S
+  1 01 04 00 000 0000     O T R O S  A C T I V O S  C O R R I E N T E S                                                            N
+  1 01 04 01 000 0000       MERCADERIA EN TRANSITO MN                                                                              N
+  1 01 04 01 001 0000         MAQUINARIA Y EQUIPO EN TRANSITO MN                                                                   N
+  1 01 04 01 001 0001           MAQUINARIA Y EQUIPO EN TRANSITO MN                                                     B           S
+  1 01 04 01 002 0000         MATERIA PRIMA EN TRANSITO MN                                                                         N
+  1 01 04 01 002 0001           MATERIA PRIMA EN TRANSITO MN                                                           B           S
+  1 01 04 01 003 0000         MATERIALES EN TRANSITO MN                                                                            N
+  1 01 04 01 003 0001           MATERIALES EN TRANSITO MN                                                              B           S
+  1 01 04 02 000 0000       MERCADERIA EN TRANSITO ME                                                                              N
+  1 01 04 02 001 0000         MAQUINARIA Y EQUIPO EN TRANSITO ME                                                                   N
+  1 01 04 02 001 0001           MAQUINARIA Y EQUIPO EN TRANSITO ME                                                     D           S
+  1 01 04 02 002 0000         MATERIA PRIMA EN TRANSITO ME                                                                         N
+  1 01 04 02 002 0001           MATERIA PRIMA EN TRANSITO ME                                                           D           S
+  1 01 04 02 003 0000         MATERIALES EN TRANSITO ME                                                                            N
+  1 01 04 02 003 0001           MATERIALES EN TRANSITO ME                                                              D           S
+  1 01 04 04 000 0000       MATERIAL DE SERVICIO                                                                                   N
+  1 01 04 04 001 0000         MATERIAL DE SERVICIO                                                                                 N
+  1 01 04 04 001 0001           PAPELERIA Y UTILES DE ESCRITORIO                                                       D           S
+  1 01 04 04 001 0002           MATERIAL DE LIMPIEZA                                                                   D           S
+  1 01 04 04 001 0003           MATERIAL REPARACION Y MANTE. MN                                                        B           S
+  1 01 04 04 001 0004           VARIOS MATERIALES DE SERVICIO                                                          D           S
+  1 01 04 04 001 0005           REPUESTOS POR APLICAR                                                                  D           S
+  1 02 00 00 000 0000   A C T I V O  N O  C O R R I E N T E                                                                        N
+  1 02 01 00 000 0000     I N V E R S I O N E S                                                                                    N
+  1 02 01 01 000 0000       ACCIONES TELEFONICAS                                                                                   N
+  1 02 01 01 001 0000         ACCIONES TELEFONICAS LA PAZ                                                                          N
+  1 02 01 01 001 0001           ACCIONES TELEFONICAS COTEL                                                             D           S
+  1 02 01 02 000 0000       SISTEMAS Y PROGRAMAS                                                                                   N
+  1 02 01 02 001 0000         SISTEMAS Y PROGRAMAS DE COMPUTACION                                                                  N
+  1 02 01 02 001 0001           SISTEMAS Y PROGRAMAS DE COMPUTACION                                                                S
+  1 02 01 03 000 0000       (RESERVA OBSOLESCENCIA SISTEMAS Y PROG.)                                                               N
+  1 02 01 03 001 0000         (RESERVA OBSOLESCENCIA SISTEMAS COMP.)                                                               N
+  1 02 01 03 001 0001           (RESERVA OBSOLESCENCIA SISTEMAS COMP.)                                                             S
+  1 02 02 00 000 0000     B I E N E S  D E  U S O                                                                                  N
+  1 02 02 01 000 0000       TERRENOS                                                                                               N
+  1 02 02 01 001 0000         TERRENOS                                                                                             N
+  1 02 02 01 001 0001           TERRENOS                                                                               0    UFV    S
+  1 02 02 02 000 0000       EDIFICIOS                                                                                              N
+  1 02 02 02 001 0000         EDIFICIOS                                                                                            N
+  1 02 02 02 001 0001           EDIFICIOS                                                                              0    UFV    S
+  1 02 02 03 000 0000       (DEPRECIACION ACUMULADA EDIFICIOS)                                                                     N
+  1 02 02 03 001 0000         (DEPRECIACION ACUMULADA EDIFICIOS)                                                                   N
+  1 02 02 03 001 0001           (DEPRECIACION ACUMULADA EDIFICIOS)                                                     0    UFV    S
+  1 02 02 04 000 0000       MUEBLES Y ENSERES                                                                                      N
+  1 02 02 04 001 0000         MUEBLES Y ENSERES                                                                                    N
+  1 02 02 04 001 0001           MUEBLES Y ENSERES                                                                      0    UFV    S
+  1 02 02 05 000 0000       (DEPRECIACION ACUMULADA MUEBLES Y ENSERES)                                                             N
+  1 02 02 05 001 0000         (DEPRECIACION ACUMULADA MUEBLES Y ENSERES)                                                           N
+  1 02 02 05 001 0001           (DEPRECIACION ACUMULADA MUEBLES Y ENSERES)                                             0    UFV    S
+  1 02 02 06 000 0000       MAQUINARIA Y EQUIPO                                                                                    N
+  1 02 02 06 001 0000         MAQUINARIA Y EQUIPO                                                                                  N
+  1 02 02 06 001 0001           MAQUINARIA Y EQUIPO                                                                    0    UFV    S
+  1 02 02 07 000 0000       (DEPRECIACION ACUMULADA MAQUINARIA Y EQUIPO)                                                           N
+  1 02 02 07 001 0000         (DEPRECIACION ACUMULADA MAQUINARIA Y EQUIPO)                                                         N
+  1 02 02 07 001 0001           (DEPRECIACION ACUMULADA MAQUINARIA Y EQUIPO)                                           0    UFV    S
+  1 02 02 08 000 0000       INSTALACIONES                                                                                          N
+  1 02 02 08 001 0000         INSTALACIONES                                                                                        N
+  1 02 02 08 001 0001           INSTALACIONES                                                                          0    UFV    S
+  1 02 02 09 000 0000       (DEPRECIACION ACUMULADA INSTALACIONES)                                                                 N
+  1 02 02 09 001 0000         (DEPRECIACION ACUMULADA INSTALACIONES)                                                               N
+  1 02 02 09 001 0001           (DEPRECIACION ACUMULADA INSTALACIONES)                                                 0    UFV    S
+  1 02 02 10 000 0000       VEHICULOS                                                                                              N
+  1 02 02 10 001 0000         VEHICULOS                                                                                            N
+  1 02 02 10 001 0001           VEHICULOS                                                                              0    UFV    S
+  1 02 02 11 000 0000       (DEPRECIACION ACUMULADA VEHICULOS)                                                                     N
+  1 02 02 11 001 0000         (DEPRECIACION ACUMULADA VEHICULOS)                                                                   N
+  1 02 02 11 001 0001           (DEPRECIACION ACUMULADA VEHICULOS)                                                     0    UFV    S
+  1 02 02 12 000 0000       HERRAMIENTAS                                                                                           N
+  1 02 02 12 001 0000         HERRAMIENTAS                                                                                         N
+  1 02 02 12 001 0001           HERRAMIENTAS                                                                                UFV    S
+  1 02 02 13 000 0000       (DEPRECIACION ACUMULADA HERRAMIENTAS)                                                                  N
+  1 02 02 13 001 0000         (DEPRECIACION ACUMULADA HERRAMIENTAS)                                                                N
+  1 02 02 13 001 0001           (DEPRECIACION ACUMULADA HERRAMIENTAS)                                                       UFV    S
+  1 02 02 14 000 0000       EQUIPOS DE COMPUTACION                                                                                 N
+  1 02 02 14 001 0000         EQUIPOS DE COMPUTACION                                                                               N
+  1 02 02 14 001 0001           EQUIPOS DE COMPUTACION                                                                 0    UFV    S
+  1 02 02 15 000 0000       (DEPRECIACION ACUMULADA EQUIPOS DE COMPUTACION)                                                        N
+  1 02 02 15 001 0000         (DEPRECIACION ACUMULADA EQUIPOS DE COMPUTACION)                                                      N
+  1 02 02 15 001 0001           (DEPRECIACION ACUMULADA EQUIPOS DE COMPUTACION)                                        0    UFV    S
+  1 02 02 16 000 0000       EQUIPOS DE LABORATORIO                                                                                 N
+  1 02 02 16 001 0000         EQUIPOS DE LABORATORIO                                                                               N
+  1 02 02 16 001 0001           EQUIPOS DE LABORATORIO                                                                 0    UFV    S
+  1 02 02 17 000 0000       (DEPRECIACION ACUMULADA EQUIPOS LABORATORIO)                                                           N
+  1 02 02 17 001 0000         (DEPRECIACION ACUMULADA EQUIPOS LABORATORIO)                                                         N
+  1 02 02 17 001 0001           (DEPRECIACION ACUMULADA EQUIPOS LABORATORIO)                                           0    UFV    S
+  1 02 03 00 000 0000     D I F E R I D O  E  I N T A N G I B L E                                                                  N
+  1 02 03 01 000 0000       GASTOS PAGADOS POR ANTICIPADO MN                                                                       N
+  1 02 03 01 001 0000         GASTOS PAGADOS POR ANTICIPADO MN                                                                     N
+  1 02 03 01 001 0001           INTERESES DIFERIDO MN                                                                  B           S
+  1 02 03 01 001 0002           SEGUROS PAGADOS POR ANTICIPADO MN                                                      B           S
+  1 02 03 01 001 0003           GASTOS POR APLICAR MN                                                                  B           S
+  1 02 03 02 000 0000       GASTOS PAGADOS POR ANTICIPADO ME                                                                       N
+  1 02 03 02 001 0000         GASTOS PAGADOS POR ANTICIPADO ME                                                                     N
+  1 02 03 02 001 0001           ALQUILERES PAGADOS POR ANTICIPADO ME                                                   D           S
+  1 02 03 02 001 0002           SEGUROS PAGADOS POR ANTICIPADO ME                                                      D           S
+  1 02 03 02 001 0003           GASTOS POR APLICAR ME                                                                  D           S
+  1 02 03 03 000 0000       OTROS ACTIVOS DIFERIDOS                                                                                N
+  1 02 03 03 001 0000         OTROS ACTIVOS DIFERIDOS                                                                              N
+  1 02 03 03 001 0001           OTROS ACTIVOS DIFERIDOS MN                                                             B           S
+  1 02 03 03 001 0002           OTROS ACTIVOS DIFERIDOS ME                                                             D           S
+  1 02 04 00 000 0000     O T R O S  A C T I V O S  N O  C O R R I E N T E S                                                       N
+  1 02 04 01 000 0000       MATERIALES EN TRANSITO MN LP                                                                           N
+  1 02 04 01 001 0000         MAQUINARIA Y EQUIPO EN TRANSITO MN LP                                                                N
+  1 02 04 01 001 0001           MAQUINARIA Y EQUIPO EN TRANSITO MN LP                                                  B           S
+  1 02 04 01 001 0002           MAQUINARIA Y EQUIPO EN DESARROLLO MN                                                   B           S
+  1 02 04 01 002 0000         MATERIA PRIMA EN TRANSITO MN LP                                                                      N
+  1 02 04 01 002 0001           MATERIA PRIMA EN TRANSITO MN LP                                                        B           S
+  1 02 04 01 003 0000         MATERIALES EN TRANSITO MN LP                                                                         N
+  1 02 04 01 003 0001           MATERIALES EN TRANSITO MN LP                                                           B           S
+  1 02 04 02 000 0000       MATERIALES EN TRANSITO ME LP                                                                           N
+  1 02 04 02 001 0000         MAQUINARIA Y EQUIPO EN TRANSITO ME LP                                                                N
+  1 02 04 02 001 0001           MAQUINARIA Y EQUIPO EN TRANSITO ME LP                                                  D           S
+  1 02 04 02 002 0000         MATERIA PRIMA EN TRANSITO ME LP                                                                      N
+  1 02 04 02 002 0001           MATERIA PRIMA EN TRANSITO ME LP                                                        D           S
+  1 02 04 02 003 0000         MATERIALES EN TRANSITO ME LP                                                                         N
+  1 02 04 02 003 0001           MATERIALES EM TRANSITO ME LP                                                           D           S
+  1 02 04 98 000 0000       OPERACIONES POR LIQUIDAR MN                                                                            N
+  1 02 04 98 001 0000         OPERACIONES PRO LIQUIDAR MN                                                                          N
+  1 02 04 98 001 0001           OPERACIONES POR LIQUIDAR MN                                                            B           S
+  1 02 04 99 000 0000       OPERACIONES POR LIQUIDAR ME                                                                            N
+  1 02 04 99 001 0000         OPERACIONES POR LIQUIDAR ME                                                                          N
+  1 02 04 99 001 0001           OPERACIONES POR LIQUIDAR ME                                                            D           S
+  1 02 05 00 000 0000     E X I G I B L E                                                                                          N
+  1 02 05 02 000 0000       CLIENTES ME                                                                                            N
+  1 02 05 02 001 0000         CLIENTES LA PAZ ME                                                                                   N
+  1 02 05 02 001 0101           CLIENTES LA PAZ ME L.PLAZO                                                             D           S
+  2 00 00 00 000 0000 P A S I V O                                                                                                  N
+  2 01 00 00 000 0000   P A S I V O  C O R R I E N T E                                                                             N
+  2 01 01 00 000 0000     O B L I G A C I O N E S  P O R  P A G A R                                                                N
+  2 01 01 01 000 0000       PROVEEDORES MN                                                                                         N
+  2 01 01 01 001 0000         PROVEEDORES LOCALES MN                                                                               N
+  2 01 01 01 001 0001           PROVEEDORES LOCALES MN                                                                 B           S
+  2 01 01 01 002 0000         PROVEEDORES INTERIOR MN                                                                              N
+  2 01 01 01 002 0001           PROVEEDORES INTERIOR MN                                                                B           N
+  2 01 01 02 000 0000       PROVEEDORES ME                                                                                         N
+  2 01 01 02 001 0000         PROVEEDORES LOCALES ME                                                                               N
+  2 01 01 02 001 0001           PROVEEDORES LOCALES ME                                                                 D           S
+  2 01 01 02 002 0000         PROVEEDORES INTERIOR ME                                                                              N
+  2 01 01 02 002 0001           PROVEEDORES INTERIOR ME                                                                D           S
+  2 01 01 02 003 0000         PROVEEDORES EXTRANJEROS ME                                                                           N
+  2 01 01 02 003 0001           PROVEEDORES EXTRANJEROS ME                                                             D           S
+  2 01 01 03 000 0000       CUENTAS POR PAGAR MN                                                                                   N
+  2 01 01 03 001 0000         CUENTAS POR PAGAR MN                                                                                 N
+  2 01 01 03 001 0001           CUENTAS POR PAGAR MN                                                                   B           S
+  2 01 01 03 001 0002           ANTICIPO DE CLIENTES MN                                                                B           S
+  2 01 01 04 000 0000       CUENTAS POR PAGAR ME                                                                                   N
+  2 01 01 04 001 0000         CUENTAS POR PAGAR ME                                                                                 N
+  2 01 01 04 001 0001           CUENTAS POR PAGAR ME                                                                   D           S
+  2 01 01 04 001 0002           ANTICIPO DE CLIENTES ME                                                                D           S
+  2 01 02 00 000 0000     O B L I G A C I O N E S  F I N A N C I E R A S                                                           N
+  2 01 02 01 000 0000       PRESTAMOS BANCARIOS MN                                                                                 N
+  2 01 02 01 001 0000         PRESTAMOS BANCOS NACIONALES MN                                                                       N
+  2 01 02 01 001 0001           BANCO UNION MN                                                                         B           S
+  2 01 02 01 001 0002           BANCO BISA MN                                                                          B           S
+  2 01 02 01 001 0003           BANCO NACION DE BOLIVIA MN                                                             B           S
+  2 01 02 02 000 0000       PRESTAMOS BANCARIOS ME                                                                                 N
+  2 01 02 02 001 0000         PRESTAMOS BANCOS NACIONALES ME                                                                       N
+  2 01 02 02 001 0001           BANCO MERCANTIL ME                                                                     D           S
+  2 01 02 02 001 0002           BANCO BISA ME                                                                          D           S
+  2 01 02 02 001 0003           ...............                                                                        D           S
+  2 01 02 05 000 0000       INTERESES POR FINANCIAMIENTOS MN                                                                       N
+  2 01 02 05 001 0000         INTERESES POR PAGAR BANCOS MN                                                                        N
+  2 01 02 05 001 0001           INTERESES POR PAGAR BANCO UNION MN                                                     B           S
+  2 01 02 05 001 0002           INTERESES POR PAGAR BANCO NACIONAL DE BOLIVIA MN                                       B           S
+  2 01 02 06 000 0000       INTERESES POR FINANCIAMIENTOS ME                                                                       N
+  2 01 02 06 001 0000         INTERESES POR PAGAR BANCOS ME                                                                        N
+  2 01 02 06 001 0001           INTERESES POR PAGAR BANCOS ME                                                          D           S
+  2 01 02 07 000 0000       PRESTAMOS VARIOS MN                                                                                    N
+  2 01 02 07 001 0000         PRESTAMOS VARIOS MN                                                                                  N
+  2 01 02 07 001 0001           PRESTAMOS VARIOS MN                                                                    B           S
+  2 01 02 08 000 0000       PRESTAMOS VARIOS ME                                                                                    N
+  2 01 02 08 001 0000         PRESTAMOS VARIOS ME                                                                                  N
+  2 01 02 08 001 0001           PRESTAMOS VARIOS ME                                                                    D           S
+  2 01 02 09 000 0000       INTERESESPOR FINANCIAMIENTOS VARIOS MN                                                                 N
+  2 01 02 09 001 0000         INTERESES POR PAGAR PRESTAMOS VARIOS MN                                                              N
+  2 01 02 09 001 0001           INTERESES POR PAGAR PRESTAMOS VARIOS MN                                                B           S
+  2 01 02 10 000 0000       INTERESES POR FINANCIAMIENTOS VARIOS ME                                                                N
+  2 01 02 10 001 0000         INTERESES POR PAGAR PRESTAMOS VARIOS ME                                                              N
+  2 01 02 10 001 0001           INTERESES POR PAGAR PRESTAMOS VARIOS ME                                                D           S
+  2 01 03 00 000 0000     O B L I G A C I O N E S   F I S C A L E S                                                                N
+  2 01 03 01 000 0000       ACREEDORES FISCALES POR IMPUESTOS                                                                      N
+  2 01 03 01 001 0000         OBLIGACIONES IMPOSITIVAS DE LA EMPRESA                                                               N
+  2 01 03 01 001 0001           DEBITO IVA MN                                                                          B           S
+  2 01 03 01 001 0002           RC-IVA POR PAGAR MN                                                                    B           S
+  2 01 03 01 001 0003           IT POR PAGAR MN                                                                        B           S
+  2 01 03 01 001 0004           IUE POR PAGAR MN                                                                       B           S
+  2 01 03 01 001 0005           IPB POR PAGAR MN                                                                       B           S
+  2 01 03 01 001 0006           PATENTES MUNICIPALES POR PAGAR MN                                                      B           S
+  2 01 03 01 001 0007           OTRAS OBLIGACIONES IMPOSITIVAS                                                         B           S
+  2 01 03 01 002 0000         OBLIGACIONES POR RETENCIONES A TERCEROS                                                              N
+  2 01 03 01 002 0001           RETENCIONES IUE SERVICIOS                                                              B           S
+  2 01 03 01 002 0002           RETENCIONES IT A TERCEROS                                                              B           S
+  2 01 03 01 002 0003           RETENCIONES IUE ADQUISICIONES                                                          B           S
+  2 01 03 01 002 0004           RETENCIONES JUDICIALES                                                                 B           S
+  2 01 03 01 002 0005           RETENCION RC-IVA TERCEROS                                                              B           S
+  2 01 03 01 002 0006           RETENCIONES IUE-BE SERVICIOS                                                           B           S
+  2 01 03 02 000 0000       ACREEDORES POR CARGAS SOCIALES                                                                         N
+  2 01 03 02 001 0000         APORTES POR PAGAR                                                                                    N
+  2 01 03 02 001 0001           CNS                                                                                    B           S
+  2 01 03 02 001 0002           PRO-VIVIENDA                                                                           B           S
+  2 01 03 02 001 0003           INFOCAL                                                                                B           S
+  2 01 03 02 001 0004           AFP PREVISION BBV                                                                      B           S
+  2 01 03 02 001 0005           AFP FUTURO DE BOLIVIA                                                                  B           S
+  2 01 03 02 001 0006           DEUDAS SOCIALES                                                                        B           S
+  2 01 03 02 001 0007           FONDO SOLIDARIO                                                                        B           S
+  2 01 04 00 000 0000     O T R A S  O B L I G A C I O N E S POR P A G A R                                                         N
+  2 01 04 01 000 0000       OTRAS CUENTAS POR PAGAR MN                                                                             N
+  2 01 04 01 001 0000         OTRAS CUENTAS POR PAGAR DEL PERSONAL                                                                 N
+  2 01 04 01 001 0001           SUELDOS POR PAGAR                                                                      B           S
+  2 01 04 01 001 0002           PROVISION PARA AGUINALDO NAVIDAD                                                       B           S
+  2 01 04 01 001 0003           PROVISION PARA PRIMA ANUAL                                                             B           S
+  2 01 04 01 001 0004           RETENCIONES AL PERSONAL                                                                B           S
+  2 01 04 01 001 0005           RETENCIONES PARA SINDICATO                                                             B           S
+  2 01 04 01 001 0006           RETENCIONES VARIAS                                                                     B           S
+  2 01 04 01 001 0007           SUBSIDIOS POR PAGAR                                                                    B           S
+  2 01 04 01 002 0000         OTRAS CUENTAS POR PAGAR MN                                                                           N
+  2 01 04 01 002 0001           OTRAS CUENTAS POR PAGAR MN                                                             B           S
+  2 01 04 01 002 0002           PROVISIONES POR PAGAR MN                                                               B           S
+  2 01 05 00 000 0000     O T R A S  C U E N T A S  P O R  P A G A R                                                               N
+  2 01 05 01 000 0000       OTRAS CUENTAS POR PAGAR ME                                                                             N
+  2 01 05 01 001 0000         OTRAS CUENTAS POR PAGAR ME                                                                           N
+  2 01 05 01 001 0001           OTRAS CUENTAS POR PAGAR ME                                                             D           S
+  2 01 05 01 001 0002           PROVISIONES POR PAGAR ME                                                               D           S
+  2 02 00 00 000 0000   P A S I V O  N O  C O R R I E N T E                                                                        N
+  2 02 01 00 000 0000     P R E V I S I O N E S                                                                                    N
+  2 02 01 01 000 0000       PREVISIONES PARA INDEMNIZACIONES                                                                       N
+  2 02 01 01 001 0000         PREVISION PARA INDEMNIZACIONES                                                                       N
+  2 02 01 01 001 0001           PREVISION PARA INDEMNIZACIONES                                                         B           S
+  2 02 01 02 000 0000       OTRAS PREVISIONES                                                                                      N
+  2 02 01 02 001 0000         OTRAS PREVISIONES                                                                                    N
+  2 02 01 02 001 0001           PREVISION OBSOLESCENCIA INVENTARIO DE MAQ.Y EQUIPO                                     B           S
+  2 02 01 02 001 0002           PREVISION PARA CUENTAS INCOBRABLES                                                     B           S
+  2 02 02 00 000 0000     O B L I G A C I O N E S  F I N A N C I E R A S  LP                                                       N
+  2 02 02 01 000 0000       PRESTAMOS BANCARIOS LP MN                                                                              N
+  2 02 02 01 001 0000         PRESTAMOS BANCOS NACIONALES LP MN                                                                    N
+  2 02 02 01 001 0001           BANCO MERCANTIL LP MN                                                                  B           S
+  2 02 02 01 001 0002           BANCO BISA LP MN                                                                       B           S
+  2 02 02 01 002 0000         PRESTAMOS BANCOS INTERNACIONALES LP ME                                                               N
+  2 02 02 02 000 0000       PRESTAMOS BANCARIOS LP ME                                                                              N
+  2 02 02 02 001 0000         PRESTAMOS BANCOS NACIONALES LP ME                                                                    N
+  2 02 02 02 001 0001           BANCO MERCANTIL LP ME                                                                  D           S
+  2 02 02 03 000 0000       INTERESES POR FINANCIAMIENTO LP ME                                                                     N
+  2 02 02 03 001 0000         INTERESES POR PAGAR BANCOS LP ME                                                                     N
+  2 02 02 03 001 0001           INTERESES POR PAGAR BANCOS LP ME                                                       D           S
+  2 02 02 03 002 0000         INTERESES P.PAGAR OTRAS INST.FINANC.LP ME                                                            N
+  2 02 02 03 002 0001           INTERESES P.PAGAR OTRAS INST.FINANC.LP ME                                              D           S
+  2 02 03 00 000 0000     O T R O S  P A S I V O S                                                                                 N
+  2 02 03 98 000 0000       OPERACIONES POR LIQUIDAR MN                                                                            N
+  2 02 03 98 001 0000         OPERACIONES POR LIQUIDAR MN                                                                          N
+  2 02 03 98 001 0001           OPERACIONES POR LIQUIDAR MN                                                            B           S
+  2 02 03 99 000 0000       OPERACIONES POR LIQUIDAR ME                                                                            N
+  2 02 03 99 001 0000         OPERACIONES POR LIQUIDAR ME                                                                          N
+  2 02 03 99 001 0001           OPERACIONES POR LIQUIDAR ME                                                            D           S
+  2 02 03 99 001 0002           OPERACIONES PENDIENTES CARTAS CREDITO ME                                               D           S
+  3 00 00 00 000 0000 P A T R I M O N I O                                                                                          N
+  3 01 00 00 000 0000   C A P I T A L  S O C I A L                                                                                 N
+  3 01 01 00 000 0000     C A P I T A L  S O C I A L                                                                               N
+  3 01 01 01 000 0000       CAPITAL SOCIAL                                                                                         N
+  3 01 01 01 001 0000         CAPITAL SOCIAL                                                                                       N
+  3 01 01 01 001 0001           SOCIO LOPEZ BELTRAN FERNANDO                                                           B           S
+  3 01 01 01 001 0002           SOCIO LOPEZ BELTRAN FRANCISCO                                                          B           S
+  3 01 01 01 001 0003           SOCIO LOPEZ BELTRAN ANTONIO                                                            B           S
+  3 01 01 02 000 0000       APORTES PENDIENTES CAPITALIZACION                                                                      N
+  3 01 01 02 001 0000         APORTES PENDIENTES CAPITALIZACION                                                                    N
+  3 01 01 02 001 0001           APORTES PENDIENTES CAPITALIZACION                                                      B           S
+  3 02 00 00 000 0000   A J U S T E S  A L  P A T R I M O N  I O                                                                   N
+  3 02 01 00 000 0000     A J U S T E S  A L  P A T R I M O N I O                                                                  N
+  3 02 01 01 000 0000       AJUSTES AL PATRIMONIO                                                                                  N
+  3 02 01 01 001 0000         AJUSTE GLOBAL DEL PATRIMONIO                                                                         N
+  3 02 01 01 001 0001           AJUSTE GLOBAL DEL PATRIMONIO                                                                       S
+  3 02 01 01 001 0002           AJUSTE DE CAPITAL                                                                                  S
+  3 02 01 01 001 0003           AJUSTE DE RESERVAS PATRIMONIALES                                                                   S
+  3 03 00 00 000 0000   R E S E R V A S                                                                                            N
+  3 03 01 00 000 0000     R E S E R V A S                                                                                          N
+  3 03 01 01 000 0000       RESERVA LEGAL                                                                                          N
+  3 03 01 01 001 0000         RESERVA LEGAL                                                                                        N
+  3 03 01 01 001 0001           RESERVA LEGAL                                                                          B           S
+  3 03 01 02 000 0000       RESERVA PARA REINVERSION CAPITAL                                                                       N
+  3 03 01 02 001 0000         RESERVA PARA REINVERSION CAPITAL                                                                     N
+  3 03 01 02 001 0001           RESERVA PARA REINVERSION CAPITAL                                                       B           S
+  3 03 01 03 000 0000       RESERVA POR REVALUOS TECNICOS                                                                          N
+  3 03 01 03 001 0000         RESERVA POR REVALUOS TECNICOS                                                                        N
+  3 03 01 03 001 0001           RESERVA POR REVALUOS TECNICOS                                                          B           S
+  3 04 00 00 000 0000   R E S U L T A D O S                                                                                        N
+  3 04 01 00 000 0000     R E S U L T A D O S                                                                                      N
+  3 04 01 01 000 0000       RESULTADOS ACUMULADOS                                                                                  N
+  3 04 01 01 001 0000         RESULTADOS ACUMULADOS                                                                                N
+  3 04 01 01 001 0001           UTILIDAD ACUMULADA                                                                     B           S
+  3 04 01 01 001 0002           PERDIDA ACUMULADA                                                                      B           S
+  3 04 01 02 000 0000       RESULTADOS DEL PERIODO                                                                                 N
+  3 04 01 02 001 0000         RESULTADOS DEL PERIODO                                                                               N
+  3 04 01 02 001 0001           UTILIDAD DEL PERIODO                                                                   B           S
+  3 04 01 02 001 0002           PERDIDA DEL PERIODO                                                                    B           S
+  4 00 00 00 000 0000 E G R E S O S                                                                                         UFV    N
+  4 01 00 00 000 0000   C O S T O  D E  V E N T A S                                                                                N
+  4 01 01 00 000 0000     C O S T O   D E  V E N T A S                                                                             N
+  4 01 01 01 000 0000       COSTO DE VENTAS PRODUCTOS TERMINADOS                                                                   N
+  4 01 01 01 005 0000         COSTO DE VENTAS ENV.FLEXIBLES                                                                        N
+  4 01 01 01 005 0001           COSTO DE VENTAS ENV. FLEXIBLES                                                         0    UFV    S
+  4 01 01 01 005 0002           COSTO DE VENTAS ENV.FLEXIBLES OTROS CLIENTES                                           0    UFV    S
+  4 01 01 01 005 0101           .                                                                                                  N
+  4 01 01 01 005 0102           .                                                                                                  N
+  4 01 01 01 005 0103           .                                                                                                  N
+  4 01 01 01 005 0104           .                                                                                                  N
+  4 01 01 01 005 0106           .                                                                                                  N
+  4 01 01 02 000 0000       COSTO VENTAS MATERIA PRIMA                                                                             N
+  4 01 01 02 005 0000         COSTO VENTAS MATERIA PRIMA ENV.FLEXIBLES                                                             N
+  4 01 01 02 005 0001           COSTO VENTAS MATERIA PRIMA ENV.FLEXIBLES                                               0    UFV    S
+  4 01 01 03 000 0000       COSTO VENTAS MATERIALES                                                                                N
+  4 01 01 03 005 0000         COSTO VENTAS MATERIALES ENV.FLEXIBLES                                                                N
+  4 01 01 03 005 0001           COSTO VENTAS MATERIALES ENV.FLEXIBLES                                                  0    UFV    S
+  4 01 01 04 000 0000       COSTO VENTAS DESPERDICIOS                                                                              N
+  4 01 01 04 005 0000         COSTO VENTAS DESPERDICIOS ENV.FLEXIBLES                                                              N
+  4 01 01 04 005 0001           COSTO VENTAS DESPERDICIOS MAT.PRIMA ENV.FLEXIBLES                                      0    UFV    S
+  4 01 01 04 005 0002           COSTO VENTAS DESPERDICIOS MATERIALES ENV.FLEXIBLES                                     0    UFV    S
+  4 01 01 04 005 0003           COSTO VENTAS DESPERDICIOS VARIOS ENV.FLEXIBLES                                         0    UFV    S
+  4 01 01 05 000 0000       COSTO VENTAS SERVICIOS                                                                                 N
+  4 01 01 05 005 0000         COSTO VENTAS SERVICIOS                                                                               N
+  4 01 01 05 005 0001           COSTO VENTAS PREPRENSA,CLISES Y PELICULAS                                              0    UFV    S
+  4 02 00 00 000 0000   G A S T O S  D E  O P E R A C I O N                                                                        N
+  4 02 01 00 000 0000     G A S T O S  A D M I N I S T R A C I O N                                                                 N
+  4 02 01 01 000 0000       GASTOS DE PERSONAL                                                                                     N
+  4 02 01 01 001 0000         SUELDOS, SALARIOS Y BONOS                                                                            N
+  4 02 01 01 001 0005           SUELDOS ADM. ENV FLEXIBLES                                                             0    UFV    S
+  4 02 01 01 002 0000         HORAS EXTRA                                                                                          N
+  4 02 01 01 002 0005           HORAS EXTRA ADM. ENV. FLEXIBLES                                                        0    UFV    S
+  4 02 01 01 003 0000         AGUINALDO Y PRIMAS                                                                                   N
+  4 02 01 01 003 0005           AGUINALDO Y PRIMAS ADM. ENV. FLEXIBLES                                                 0    UFV    S
+  4 02 01 01 004 0000         INDEMNIZACIONES                                                                                      N
+  4 02 01 01 004 0005           INDEMNIZACIONES ADM. ENV.FLEXIBLES                                                     0    UFV    S
+  4 02 01 01 005 0000         SUBSIDIOS                                                                                            N
+  4 02 01 01 005 0005           SUBSIDIOS ADM. ENV.FLEXIBLES                                                           0    UFV    S
+  4 02 01 01 006 0000         DESHAUCIOS                                                                                           N
+  4 02 01 01 006 0005           DESHAUCIOS ADM. ENV.FLEXIBLES                                                          0    UFV    S
+  4 02 01 01 007 0000         COMPENSACION VACACIONES                                                                              N
+  4 02 01 01 007 0005           COMPENS. VACACIONES ADM. ENV.FLEXIBLES                                                 0    UFV    S
+  4 02 01 01 008 0000         OTRAS RETRIBUCIONES                                                                                  N
+  4 02 01 01 008 0005           OTRAS RETRIBUCIONES ADM. ENV.FLEXIBLES                                                 0    UFV    S
+  4 02 01 01 009 0000         CAPACITACION                                                                                         N
+  4 02 01 01 009 0005           CAPACITACION ADM. ENV.FLEXIBLES                                                        0    UFV    S
+  4 02 01 01 010 0000         ROPA DE TRABAJO                                                                                      N
+  4 02 01 01 010 0005           ROPA DE TRABAJO ADM. ENV.FLEXIBLES                                                     0    UFV    S
+  4 02 01 01 011 0000         ALIMENTACION Y REFRIGERIOS                                                                           N
+  4 02 01 01 011 0005           ALIMENTACION Y REFRIG. ADM. ENV.FLEXIBLES                                              0    UFV    S
+  4 02 01 01 012 0000         VIATICOS                                                                                             N
+  4 02 01 01 012 0005           VIATICOS ADM. ENV.FLEXIBLES                                                            0    UFV    S
+  4 02 01 01 999 0000         OTROS SERVICIOS AL PERSONAL                                                                          N
+  4 02 01 01 999 0005           OTROS SERV. PERSONAL ADM. ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 02 000 0000       CARGAS SOCIALES                                                                                        N
+  4 02 01 02 001 0000         APORTE CNS                                                                                           N
+  4 02 01 02 001 0005           APORTE CNS ENV.FLEXIBLES                                                               0    UFV    S
+  4 02 01 02 002 0000         APORTE AFPS                                                                                          N
+  4 02 01 02 002 0005           APORTE AFPS ENV.FLEXIBLES                                                              0    UFV    S
+  4 02 01 02 003 0000         APORTE PROVIVIENDA                                                                                   N
+  4 02 01 02 003 0005           APORTE PROVIVIENDA ENV.FLEXIBLES                                                       0    UFV    S
+  4 02 01 02 004 0000         APORTE INFOCAL                                                                                       N
+  4 02 01 02 004 0005           APORTE INFOCAL ENV.FLEXIBLES                                                           0    UFV    S
+  4 02 01 02 005 0000         FONDO SOLIDARIO                                                                                      N
+  4 02 01 02 005 0001           APORTE FONDO SOLIDARIO ENV. FLEXIBLES                                                  0    UFV    S
+  4 02 01 02 999 0000         OTROS POR CARGAS SOCIALES                                                                            N
+  4 02 01 02 999 0005           OTROS POR CARGAS SOCIALES ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 03 000 0000       SERVICIOS CONTRATADOS                                                                                  N
+  4 02 01 03 001 0000         SERVICIOS DE COMPUTACION                                                                             N
+  4 02 01 03 001 0005           SERV. COMPUTACION ENV.FLEXIBLES                                                        0    UFV    S
+  4 02 01 03 002 0000         SERVICIOS DE SEGURIDAD                                                                               N
+  4 02 01 03 002 0005           SERV. SEGURIDAD ENV.FLEXIBLES                                                          0    UFV    S
+  4 02 01 03 003 0000         SERVICIO DE ASESORIA LEGAL                                                                           N
+  4 02 01 03 003 0005           SERV. ASESORIA LEGAL ENV.FLEXIBLES                                                     0    UFV    S
+  4 02 01 03 004 0000         SERVICIO DE AUDITORIA EXTERNA                                                                        N
+  4 02 01 03 004 0005           SERV. AUDITORIA EXTERNA ENV.FLEXIBLES                                                  0    UFV    S
+  4 02 01 03 005 0000         SERVICIO DE ANALISIS                                                                                 N
+  4 02 01 03 005 0005           SERV. ANALISIS ENV.FLEXIBLES                                                           0    UFV    S
+  4 02 01 03 006 0000         SEGUROS CONTRATADOS                                                                                  N
+  4 02 01 03 006 0005           SEGUROS CONTRATADOS ENV.FLEXIBLES                                                      0    UFV    S
+  4 02 01 03 999 0000         OTROS SERVICIOS CONTRATADOS                                                                          N
+  4 02 01 03 999 0005           OTROS SERV. CONTRATADOS ENV.FLEXIBLES                                                  0    UFV    S
+  4 02 01 04 000 0000       COMUNICACIONES Y TRASLADOS                                                                             N
+  4 02 01 04 001 0000         TELEFONOS Y FAX                                                                                      N
+  4 02 01 04 001 0005           TELEFONOS Y FAX ENV.FLEXIBLES                                                          0    UFV    S
+  4 02 01 04 002 0000         INTERNET                                                                                             N
+  4 02 01 04 002 0005           INTERNET ENV.FLEXIBLES                                                                 0    UFV    S
+  4 02 01 04 003 0000         CORREOS                                                                                              N
+  4 02 01 04 003 0005           CORREOS ENV.FLEXIBLES                                                                  0    UFV    S
+  4 02 01 04 004 0000         PEAJES, FLETES Y CARGUIOS                                                                            N
+  4 02 01 04 004 0005           PEAJES, FLETES Y CARG. ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 04 005 0000         MOVILIDAD                                                                                            N
+  4 02 01 04 005 0005           MOVILIDAD ENV.FLEXIBLES                                                                0    UFV    S
+  4 02 01 04 006 0000         COMBUSTIBLES Y LUBRICANTES                                                                           N
+  4 02 01 04 006 0005           COMBUSTIBLES Y LUBRIC. ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 04 007 0000         PASAJES                                                                                              N
+  4 02 01 04 007 0005           PASAJES ENV.FLEXIBLES                                                                  0    UFV    S
+  4 02 01 04 999 0000         OTROS DE COMUNICACIONES Y TRASLADOS                                                                  N
+  4 02 01 04 999 0005           OTROS COMUNICACION Y TRASLADOS ENV.FLEXIBLES                                           0    UFV    S
+  4 02 01 05 000 0000       IMPUESTOS                                                                                              N
+  4 02 01 05 001 0000         IMPUESTOS IUE                                                                                        N
+  4 02 01 05 001 0005           IMPUESTOS IUE ENV.FLEXIBLES                                                            0    UFV    S
+  4 02 01 05 002 0000         IMPUESTOS IPB                                                                                        N
+  4 02 01 05 002 0005           IMPUESTOS IPB ENV.FLEXIBLES                                                            0    UFV    S
+  4 02 01 05 003 0000         PATENTES Y LICENCIAS                                                                                 N
+  4 02 01 05 003 0005           PATENTES Y LICENCIAS ENV.FLEXIBLES                                                     0    UFV    S
+  4 02 01 05 004 0000         IMPUESTO IT                                                                                          N
+  4 02 01 05 004 0005           IMPUESTO IT ENV.FLEXIBLES                                                              0    UFV    S
+  4 02 01 05 005 0000         IMPUESTO ITF                                                                                         N
+  4 02 01 05 005 0005           IMPUESTO ITF ENV.FLEXIBLES                                                             0    UFV    S
+  4 02 01 05 999 0000         OTROS POR IMPUESTOS                                                                                  N
+  4 02 01 05 999 0005           OTROS POR IMPUESTOS ENV.FLEXIBLES                                                      0    UFV    S
+  4 02 01 06 000 0000       MANTENIMIENTO Y REPARACIONES                                                                           N
+  4 02 01 06 001 0000         MTO. Y REP. EDIFICIOS                                                                                N
+  4 02 01 06 001 0005           MTO. Y REP. EDIFICIOS ENV.FLEXIBLES                                                    0    UFV    S
+  4 02 01 06 002 0000         MTO. Y REP. MUEBLES Y ENSERES                                                                        N
+  4 02 01 06 002 0005           MTO. Y REP. MUEBLES Y ENSERES ENV.FLEXIBLES                                            0    UFV    S
+  4 02 01 06 003 0000         MANTENIMIENTO Y REPARACION VEHICULOS                                                                 N
+  4 02 01 06 003 0005           MTO. Y REP. VEHICULOS ENV.FLEXIBLES                                                    0    UFV    S
+  4 02 01 06 004 0000         MTO. Y REPARACION EQUIPOS COMPUTACION                                                                N
+  4 02 01 06 004 0005           MTO. Y REP. EQUIPOS COMP. ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 07 000 0000       DEPRECIACION BIENES DE USO                                                                             N
+  4 02 01 07 001 0000         DEPRECIACION EDIFICIOS                                                                               N
+  4 02 01 07 001 0005           DEPRECIACION EDIFICIOS ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 07 002 0000         DEPRECIACION MUEBLES Y ENSERES                                                                       N
+  4 02 01 07 002 0006           DEPRECIACION MUEBLES Y ENSERES ENV.FLEXIBLES                                           0    UFV    S
+  4 02 01 07 003 0000         DEPRECIACION VEHICULOS                                                                               N
+  4 02 01 07 003 0005           DEPRECIACION VEHICULOS ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 07 004 0000         DEPRECIACION HERRAMIENTAS                                                                            N
+  4 02 01 07 004 0005           DEPRECIACION HERRAMIENTAS ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 07 005 0000         DEPRECIACION EQUIPOS DE COMPUTACION                                                                  N
+  4 02 01 07 005 0005           DEPRECIACION EQUIPOS COMP. ENV.FLEXIBLES                                               0    UFV    S
+  4 02 01 07 006 0000         DEPRECIACION EQUIPO DE LABORATORIO                                                                   N
+  4 02 01 07 006 0005           DEPRECIACION EQUIP. LABORATORIO ENV.FLEXIBLES                                          0    UFV    S
+  4 02 01 08 000 0000       AMORTIZACION CARGOS DIFERIDOS                                                                          N
+  4 02 01 08 001 0000         AMORTIZACION SISTEMAS DE COMPUTACION                                                                 N
+  4 02 01 08 001 0005           AMORTIZACION SISTEMAS COMP. ENV.FLEXIBLES                                              0    UFV    S
+  4 02 01 09 000 0000       OTROS GASTOS GENERALES                                                                                 N
+  4 02 01 09 001 0000         ALQUILERES                                                                                           N
+  4 02 01 09 001 0005           ALQUILERES ENV.FLEXIBLES                                                               0    UFV    S
+  4 02 01 09 002 0000         ENERGIA ELECTRICA                                                                                    N
+  4 02 01 09 002 0005           ENERGIA ELECTRICA ENV.FLEXIBLES                                                        0    UFV    S
+  4 02 01 09 003 0000         AGUA                                                                                                 N
+  4 02 01 09 003 0005           AGUA ENV.FLEXIBLES                                                                     0    UFV    S
+  4 02 01 09 004 0000         GASTOS NOTARIALES                                                                                    N
+  4 02 01 09 004 0005           GASTOS NOTARIALES Y TRAM. ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 09 006 0000         PAPELERIA UTILES Y MATERIAL SERVICIO                                                                 N
+  4 02 01 09 006 0005           PAPELERIA Y MAT. SERV. ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 09 007 0000         SUSCRIPCIONES Y PERIODICOS                                                                           N
+  4 02 01 09 007 0009           SUSCRIPCIONES Y PERIODICOS ENV.FLEXIBLES                                               0    UFV    S
+  4 02 01 09 008 0000         CAMARA NACIONAL DE INDUSTRIAS                                                                        N
+  4 02 01 09 008 0005           CAMARA NACIONAL INDUSTRIAS ENV.FLEXIBLES                                               0    UFV    S
+  4 02 01 09 011 0000         GASTOS DE REPRESENTACION                                                                             N
+  4 02 01 09 011 0004           GASTOS DE REPRESENTACION ENV.FLEXIBLES                                                 0    UFV    S
+  4 02 01 09 012 0000         DONACIONES                                                                                           N
+  4 02 01 09 012 0004           DONACIONES ENV.FLEXIBLES                                                               0    UFV    S
+  4 02 01 09 013 0000         LIMPIEZA                                                                                             N
+  4 02 01 09 013 0005           LIMPIEZA ENV.FLEXIBLES                                                                 0    UFV    S
+  4 02 01 09 999 0000         OTROS GASTOS GENERALES                                                                               N
+  4 02 01 09 999 0005           OTROS GASTOS GENERALES ENV.FLEXIBLES                                                   0    UFV    S
+  4 02 01 10 000 0000       DIFERENCIAS DE STOCK Y MERMAS                                                                          N
+  4 02 01 10 001 0000         DIF. Y MERMAS EN MATERIA PRIMA                                                                       N
+  4 02 01 10 001 0005           DIF. Y MERMAS MATERIA PRIMA ENV.FLEXIBLES                                              0    UFV    S
+  4 02 01 10 002 0000         DIF. Y MERMAS EN MATERIALES                                                                          N
+  4 02 01 10 002 0005           DIF. Y MERMAS EN MATERIALES ENV.FLEXIBLES                                              0    UFV    S
+  4 02 01 10 003 0000         DIF. Y MERMAS EN PRODUCTO TERMINADO                                                                  N
+  4 02 01 10 003 0005           DIF. Y MERMAS EN PRODUCTO TERMINADO ENV.FLEXIBLES                                      0    UFV    S
+  4 02 01 10 004 0000         DIF. Y MERMAS EN CLISES                                                                              N
+  4 02 01 10 004 0005           DIF. Y MERMAS EN CLISES ENV.FLEXIBLES                                                  0    UFV    S
+  4 02 01 11 000 0000       CARGOS POR STOCK DEFECTUOSO                                                                            N
+  4 02 01 11 001 0000         CARGOS MATERIA PRIMA DEFECTUOSA                                                                      N
+  4 02 01 11 001 0005           CARGOS MATERIA PRIMA DEFECT. ENV.FLEXIBLES                                             0    UFV    S
+  4 02 01 11 002 0000         CARGOS MATERIALES DEFECTUOSOS                                                                        N
+  4 02 01 11 002 0005           CARGOS MATERIALES DEFECT. ENV.FLEXIBLES                                                0    UFV    S
+  4 02 01 11 003 0000         CARGOS PRODUCTOS TERMINADOS DEFECTUOSOS                                                              N
+  4 02 01 11 003 0005           CARGOS PROD. TERMINADOS DEFECT. ENV.FLEXIBL                                            0    UFV    S
+  4 02 01 12 000 0000       CARGOS POR INCOBRABILIDAD                                                                              N
+  4 02 01 12 001 0000         CASTIGO DEUDAS INCOBRABLES MN                                                                        N
+  4 02 01 12 001 0001           CASTIGO CLIENTES INCOBRABLES MN                                                        0    UFV    S
+  4 02 01 12 001 0002           CASTIGO CTAS. POR COBRAR INCOBRABLES MN                                                0    UFV    S
+  4 02 01 12 002 0000         CASTIGO DEUDAS INCOBRABLES ME                                                                        N
+  4 02 01 12 002 0001           CASTIGO CLIENTES INCOBRABLES ME                                                        0    UFV    S
+  4 02 01 12 002 0002           CASTIGO CTAS. POR COBRAR INCOBRABLES ME                                                0    UFV    S
+  4 02 02 00 000 0000     G A S T O S  I N V E S T I G A C I O N   Y  D E S.                                                       N
+  4 02 02 01 000 0000       GASTOS DE INVESTIGACION Y DESARROLLO                                                                   N
+  4 02 02 01 001 0000         GASTOS DE INVESTIGACION Y DESARROLLO                                                                 N
+  4 02 02 01 001 0001           GASTOS DE INVESTIGACION Y DESARROLLO                                                   0    UFV    S
+  4 02 03 00 000 0000     G A S T O S  C O M E R C I A L I Z A C I O N                                                             N
+  4 02 03 01 000 0000       GASTOS DE PERSONAL                                                                                     N
+  4 02 03 01 001 0000         SUELDOS, SALARIOS Y BONOS                                                                            N
+  4 02 03 01 001 0001           SUELDOS, SALARIOS Y BONOS COMERC.                                                      0    UFV    S
+  4 02 03 01 002 0000         HORAS EXTRA                                                                                          N
+  4 02 03 01 002 0001           HORAS EXTRA COMERCIALIZACION                                                           0    UFV    S
+  4 02 03 01 003 0000         AGUINALDO Y PRIMAS                                                                                   N
+  4 02 03 01 003 0001           AGUINALDO Y PRIMAS COMERCIALIZACION                                                    0    UFV    S
+  4 02 03 01 004 0000         INDEMNIZACIONES                                                                                      N
+  4 02 03 01 004 0001           INDEMNIZACIONES COMERCIALIZACION                                                       0    UFV    S
+  4 02 03 01 005 0000         SUBSIDIOS                                                                                            N
+  4 02 03 01 005 0001           SUBSIDIOS COMERCIALIZACION                                                             0    UFV    S
+  4 02 03 01 006 0000         DESHAUCIOS                                                                                           N
+  4 02 03 01 006 0001           DESAHUCIOS COMERCIALIZACION                                                            0    UFV    S
+  4 02 03 01 007 0000         COMPENSACION VACACIONES                                                                              N
+  4 02 03 01 007 0001           COMPENSACION VACACIONES COMERC.                                                        0    UFV    S
+  4 02 03 01 008 0000         OTRAS RETRIBUCIONES                                                                                  N
+  4 02 03 01 008 0001           OTRAS RETRIBUCIONES COMERCIALIZ.                                                       0    UFV    S
+  4 02 03 01 009 0000         CAPACITACION                                                                                         N
+  4 02 03 01 009 0001           CAPACITACION COMERCIALIZACION                                                          0    UFV    S
+  4 02 03 01 010 0000         ROPA DE TRABAJO                                                                                      N
+  4 02 03 01 010 0001           ROPA DE TRABAJO COMERCIALIZACION                                                       0    UFV    S
+  4 02 03 01 011 0000         ALIMENTACION Y REFRIGERIO                                                                            N
+  4 02 03 01 011 0001           ALIMENTACION Y REFRIGERIOS COMERC.                                                     0    UFV    S
+  4 02 03 01 012 0000         VIATICOS                                                                                             N
+  4 02 03 01 012 0001           VIATICOS COMERCIALIZACION                                                              0    UFV    S
+  4 02 03 01 013 0000         OTROS SERVICIOS AL PERSONAL                                                                          N
+  4 02 03 01 013 0001           OTROS SERV. AL PERSONAL COMERC.                                                        0    UFV    S
+  4 02 03 02 000 0000       CARGAS SOCIALES                                                                                        N
+  4 02 03 02 001 0000         APORTE CNS                                                                                           N
+  4 02 03 02 001 0001           APORTE CNS COMERCIALIZACION                                                            0    UFV    S
+  4 02 03 02 002 0000         APORTE AFPÔS                                                                                         N
+  4 02 03 02 002 0001           APORTE AFPÔS COMERCIALIZACION                                                          0    UFV    S
+  4 02 03 02 003 0000         APORTE PROVIVIENDA                                                                                   N
+  4 02 03 02 003 0001           APORTE PROVIVIENDA COMERCIALIZACION                                                    0    UFV    S
+  4 02 03 02 004 0000         APORTE INFOCAL                                                                                       N
+  4 02 03 02 004 0001           APORTE INFOCAL COMERCIALIZACION                                                        0    UFV    S
+  4 02 03 02 005 0000         APORTE FONDO SOLIDARIO                                                                               N
+  4 02 03 02 005 0001           APORTE FONDO SOLIDARIO COMERCIALIZACION                                                0    UFV    S
+  4 02 03 03 000 0000       SERVICIOS CONTRATADOS                                                                                  N
+  4 02 03 03 001 0000         COMISIONES SOBRE VENTAS                                                                              N
+  4 02 03 03 001 0005           COMISIONES SOBRE VENTAS ENV.FLEXIBLES                                                  0    UFV    S
+  4 02 03 03 002 0000         PUBLICIDAD Y PROMOCIONES                                                                             N
+  4 02 03 03 002 0005           PUBLICIDAD Y PROM. ENV.FLEXIBLES                                                       0    UFV    S
+  4 02 03 03 999 0000         OTROS SERVICIOS CONTRATADOS                                                                          N
+  4 02 03 03 999 0001           OTROS SERV. CONTRATADOS COMERCIAL.                                                     0    UFV    S
+  4 02 03 04 000 0000       COMUNICACIONES Y TRASLADOS                                                                             N
+  4 02 03 04 001 0000         TELEFONOS Y FAX                                                                                      N
+  4 02 03 04 001 0001           TELEFONOS Y FAX COMERCIAL.                                                             0    UFV    S
+  4 02 03 04 002 0000         PEAJES, FLETES Y CARGUIO                                                                             N
+  4 02 03 04 002 0001           PEAJES, FLETES Y CARGUIO COMERCIAL.                                                    0    UFV    S
+  4 02 03 04 003 0000         MOVILIDAD                                                                                            N
+  4 02 03 04 003 0001           MOVILIDAD COMERCIALIZACION                                                             0    UFV    S
+  4 02 03 04 004 0000         COMBUSTIBLE Y LUBRICANTES                                                                            N
+  4 02 03 04 004 0001           COMBUSTIBLES Y LUBRIC. COMERCIAL.                                                      0    UFV    S
+  4 02 03 04 005 0000         PASAJES                                                                                              N
+  4 02 03 04 005 0001           PASAJES COMERCIALIZACION                                                               0    UFV    S
+  4 02 03 04 999 0000         OTROS COMUNICACIONES Y TRASLADOS                                                                     N
+  4 02 03 04 999 0001           OTROS COMUNCAC. Y TRASLADOS COMERCIAL.                                                 0    UFV    S
+  4 02 03 05 000 0000       IMPUESTOS                                                                                              N
+  4 02 03 05 001 0000         IMPUESTOS IT                                                                                         N
+  4 02 03 05 001 0005           IMPUESTO IT SOBRE VENTAS ENV.FLEXIBLES                                                 0    UFV    S
+  4 02 03 06 000 0000       MANTENIMIENTO Y REPARACIONES                                                                           N
+  4 02 03 06 001 0000         MTO. Y REP. EDIFICIOS                                                                                N
+  4 02 03 06 001 0001           MTO. Y REP. EDIFICIOS COMERCIAL.                                                       0    UFV    S
+  4 02 03 06 002 0000         MTO. Y REP. MUEBLES Y ENSERES                                                                        N
+  4 02 03 06 002 0001           MTO. Y REP. MUEBLES Y ENSERES COMERCIAL.                                               0    UFV    S
+  4 02 03 06 003 0000         MTO. Y REP. INSTALACIONES                                                                            N
+  4 02 03 06 003 0001           MTO. Y REP. INSTALACIONES COMERCIAL.                                                   0    UFV    S
+  4 02 03 06 004 0000         MTO. Y REP. VEHICULOS                                                                                N
+  4 02 03 06 004 0001           MTO. Y REP. VEHICULOS COMERCIAL.                                                       0    UFV    S
+  4 02 03 06 005 0000         MTO. Y REP. EQUIPOS DE COMPUTACION                                                                   N
+  4 02 03 06 005 0001           MTO. Y REP. EQUIP. COMPUTACION COMERCIAL.                                              0    UFV    S
+  4 02 03 07 000 0000       DEPRECIACION BIENES DE USO                                                                             N
+  4 02 03 07 001 0000         DEPRECIACION EDIFICIOS                                                                               N
+  4 02 03 07 001 0001           DEPRECIACION EDIFICIOS COMERCIAL.                                                      0    UFV    S
+  4 02 03 07 002 0000         DEPRECIACION MUEBLES Y ENSERES                                                                       N
+  4 02 03 07 002 0001           DEPRECIACION MUEBLES Y ENS. COMERCIAL.                                                 0    UFV    S
+  4 02 03 07 003 0000         DEPRECIACION INSTALACIONES                                                                           N
+  4 02 03 07 003 0001           DEPRECIACION INSTALACIONES COMERCIAL.                                                  0    UFV    S
+  4 02 03 07 004 0000         DEPRECIACION VEHICULOS                                                                               N
+  4 02 03 07 004 0001           DEPRECIACION VEHICULOS COMERCIAL.                                                      0    UFV    S
+  4 02 03 07 005 0000         DEPRECIACION EQUIPOS DE COMPUTACION                                                                  N
+  4 02 03 07 005 0001           DEPRECIACION EQUIPOS COMPUTACION COMERCIAL.                                            0    UFV    S
+  4 02 03 08 000 0000       AMORTIZACION CARGOS DIFERIDOS                                                                          N
+  4 02 03 08 001 0000         AMORTIZACION SISTEMAS COMPUTACION                                                                    N
+  4 02 03 08 001 0001           AMORTIZ. SISTEMAS COMPUTACION COMERCIAL.                                               0    UFV    S
+  4 02 03 09 000 0000       OTROS GASTOS GENERALES                                                                                 N
+  4 02 03 09 001 0000         ALQUILERES                                                                                           N
+  4 02 03 09 001 0001           ALQUILERES COMERCIALIZACION                                                            0    UFV    S
+  4 02 03 09 002 0000         ENERGIA ELECTRICA                                                                                    N
+  4 02 03 09 002 0001           ENERGIA ELECTRICA COMERCIAL.                                                           0    UFV    S
+  4 02 03 09 003 0000         AGUA                                                                                                 N
+  4 02 03 09 003 0001           AGUA COMERCIAL.                                                                        0    UFV    S
+  4 02 03 09 004 0000         PAPELERIA, UTILES Y MATERIAL SERV.                                                                   N
+  4 02 03 09 004 0001           PAPELERIA, Y MAT. DE SERV. COMERCIAL.                                                  0    UFV    S
+  4 02 03 09 005 0000         SUSCRIPCIONES Y PERIODICIOS                                                                          N
+  4 02 03 09 005 0001           SUSCRIPCIONES Y PERIODICOS COMERCIAL.                                                  0    UFV    S
+  4 02 03 09 006 0000         CAMARA NACIONAL DE INDUSTRIAS                                                                        N
+  4 02 03 09 006 0001           CAMARA NAL DE INDUSTRIAS COMERCIAL.                                                    0    UFV    S
+  4 02 03 09 009 0000         GASTOS DE REPRESENTACION                                                                             N
+  4 02 03 09 009 0001           GASTOS DE REPRESENT.COMERCIAL.                                                         0    UFV    S
+  4 02 03 09 999 0000         OTROS GASTOS GENERALES                                                                               N
+  4 02 03 09 999 0001           OTROS GASTOS GENERALES COMERCIAL.                                                      0    UFV    S
+  4 02 03 10 000 0000       CARGOS POR INCOBRABILIDAD CLIENTES                                                                     N
+  4 02 03 10 001 0000         CASTIGO CLIENTES INCOBRABLES MN                                                                      N
+  4 02 03 10 001 0001           CASTIGO CLIENTES INCOB. LA PAZ MN                                                      0    UFV    S
+  4 02 03 10 001 0002           CASTIGO CLIENTES INCOB. EL ALTO MN                                                     0    UFV    S
+  4 02 03 10 002 0000         CASTIGO CLIENTES INCOBRABLES ME                                                                      N
+  4 02 03 10 002 0001           CASTIGO CLIENTES INCOB. LA PAZ ME                                                      0    UFV    S
+  4 02 03 10 002 0002           CASTIGO CLIENTES INCOB. EL ALTO ME                                                     0    UFV    S
+  4 02 03 11 000 0000       GASTOS DE EXPORTACION                                                                                  N
+  4 02 03 11 001 0000         GASTOS EXPORTACION VENTAS PROD. TERM                                                                 N
+  4 02 03 11 001 0001           GASTOS DESPACHOS Y TRAMITES EXPORT.                                                    0    UFV    S
+  4 02 03 11 001 0002           FLETES, CARGUIO Y TRANSPORTE EXPORT.                                                   0    UFV    S
+  4 02 03 11 001 0003           SEGUROS CONTRATADOS EXPORTACION                                                        0    UFV    S
+  4 02 03 11 001 0004           VARIOS GASTOS DE EXPORTACION                                                           0    UFV    S
+  4 03 00 00 000 0000   G A S T O S  N O  O P E R A T I V O S                                                                      N
+  4 03 01 00 000 0000     G A S T O S  F I N A N C I E R O S                                                                       N
+  4 03 01 01 000 0000       GASTOS POR INTERESES BANCARIOS                                                                         N
+  4 03 01 01 001 0000         GASTOS POR INTERESES BANCARIOS MN                                                                    N
+  4 03 01 01 001 0001           GASTOS INTERESES BANCO MERCANTIL MN                                                    0    UFV    S
+  4 03 01 01 001 0002           GASTOS INTERESES BANCO BISA MN                                                         0    UFV    S
+  4 03 01 01 001 0003           GASTOS INTERESES BANCO UNION MN                                                        0    UFV    S
+  4 03 01 01 001 0004           GASTOS INTERESES BANCO NACIONAL DE BOLIVIA MN                                          0    UFV    S
+  4 03 01 01 002 0000         GASTOS POR INTERESES BANCARIOS ME                                                                    N
+  4 03 01 01 002 0001           GASTOS INTERESES BANCO MERCANTIL ME                                                    0    UFV    S
+  4 03 01 01 002 0002           GASTOS INTERESES BANCO BISA ME                                                         0    UFV    S
+  4 03 01 01 002 0003           GASTOS INTERESES BANCO UNION                                                           0    UFV    S
+  4 03 01 02 000 0000       GASTOS POR COMISIONES BANCARIAS                                                                        N
+  4 03 01 02 001 0000         GASTOS POR COMISIONES BANCARIAS MN                                                                   N
+  4 03 01 02 001 0001           GASTOS POR COMISIONES BANCARIAS MN                                                     0    UFV    S
+  4 03 01 02 002 0000         GASTOS POR COMISIONES BANCARIAS ME                                                                   N
+  4 03 01 02 002 0001           GASTOS POR COMISIONES BANCARIAS ME                                                     0    UFV    S
+  4 03 01 03 000 0000       GASTOS POR INTERESES OTRAS INST.FIN.                                                                   N
+  4 03 01 03 001 0000         GASTOS POR INTERESES OTRAS INST. FINAN.                                                              N
+  4 03 02 00 000 0000     G A S T O S  V A R I O S                                                                                 N
+  4 03 02 01 000 0000       AJUSTES GESTIONES ANTERIORES                                                                           N
+  4 03 02 01 001 0000         AJUSTES GESTIONES ANTERIORES                                                                         N
+  4 03 02 01 001 0001           AJUSTES GESTIONES ANTERIORES                                                           0    UFV    S
+  4 03 02 99 000 0000       OTROS GASTOS                                                                                           N
+  4 03 02 99 001 0000         OTROS GASTOS                                                                                         N
+  4 03 02 99 001 0001           OTROS GASTOS                                                                           0    UFV    S
+  5 00 00 00 000 0000 I N G R E S O S                                                                                              N
+  5 01 00 00 000 0000   I N G R E S O S  O P E R A T I V O S                                                                       N
+  5 01 01 00 000 0000     I N G R E S O S  V E N T A S  N A C I O N A L E S                                                        N
+  5 01 01 01 000 0000       INGRESOS VENTAS PRODUCTOS TERMINADOS                                                                   N
+  5 01 01 01 005 0000         INGRESOS VENTAS ENV.FLEXIBLES                                                                        N
+  5 01 01 01 005 0001           VENTAS ENV. FLEXIBLES FAB. LA ESTRELLA                                                 0    UFV    S
+  5 01 01 01 005 0002           VENTAS ENV.FLEXIBLES OTROS CLIENTES                                                    0    UFV    S
+  5 01 01 02 000 0000       INGRESOS VENTAS MATERIA PRIMA                                                                          N
+  5 01 01 02 005 0000         INGRESOS VENTAS MATERIA PRIMA ENV.FLEXIBLES                                                          N
+  5 01 01 02 005 0001           VENTAS MATERIA PRIMA ENV.FLEXIBLES                                                     0    UFV    S
+  5 01 01 03 000 0000       INGRESOS VENTAS MATERIALES                                                                             N
+  5 01 01 03 005 0000         INGRESOS VENTAS MATERIALES ENV.FLEXIBLES                                                             N
+  5 01 01 03 005 0001           VENTAS MATERIALES ENV.FLEXIBLES                                                        0    UFV    S
+  5 01 01 04 000 0000       INGRESOS VENTAS DESPERDICIOS                                                                           N
+  5 01 01 04 005 0000         INGRESOS VENTAS DESPERDICIOS ENV.FLEXIBLES                                                           N
+  5 01 01 04 005 0001           VENTAS DESPERDICIOS MAT. PRIMA ENV.FLEXIBLES                                           0    UFV    S
+  5 01 01 04 005 0002           VENTAS DESPERDICIOS MATERIALES ENV.FLEXIBLES                                           0    UFV    S
+  5 01 01 04 005 0003           VENTAS DESPERDICIOS VARIOS ENV.FLEXIBLES                                               0    UFV    S
+  5 01 02 00 000 0000     I N G R E S O S  V E N T A S  E X P O R T A C I ON                                                       N
+  5 01 02 01 000 0000       INGRESOS VENTAS PRODUCTOS TERMINADOS                                                                   N
+  5 01 02 01 005 0000         INGRESOS VENTA EXPORTACION ENV.FLEXIBLES                                                             N
+  5 01 02 01 005 0001           VENTAS EXPORTACION ENV.FLEXIBLES                                                       0    UFV    S
+  5 01 03 00 000 0000     (D E V O L U C I O N E S  V E N T A S)                                                                   N
+  5 01 03 01 000 0000       (DEVOLUCIONES EN VENTAS)                                                                               N
+  5 01 03 01 005 0000         (DEVOLUCION EN VENTAS ENV.FLEXIBLES)                                                                 N
+  5 01 03 01 005 0001           (DEVOLUCION EN VENTAS ENV.FAB.LA ESTRELLA)                                             0    UFV    S
+  5 01 03 01 005 0002           (DEVOLUCION EN VENTAS ENV.OTROS CLIE.)                                                 0           S
+  5 01 04 00 000 0000     I N G R E S O S  V E N T A  S E R V I C I O S                                                            N
+  5 01 04 01 000 0000       INGRESOS POR VENTA DE SERVICIOS                                                                        N
+  5 01 04 01 005 0000         VENTAS SERVICIOS ENV.FLEXIBLES                                                                       N
+  5 01 04 01 005 0001           SERVICIOS PREPRENSA                                                                    0    UFV    S
+  5 01 04 01 005 0002           SERVICIOS CONFECCION BOLSAS                                                            0    UFV    S
+  5 01 04 01 005 0003           SERVICIOS IMPRESIONES VARIAS                                                           0    UFV    S
+  5 01 04 01 005 0009           SERVICIOS VARIOS                                                                       0    UFV    S
+  5 02 00 00 000 0000   I N G R E S O S  N O  O P E R A T I V O S                                                                  N
+  5 02 01 00 000 0000     I N G R E S O S  F I N A N C I E R O S                                                                   N
+  5 02 01 01 000 0000       INGRESOS POR INTERESES BANCARIOS                                                                       N
+  5 02 01 01 001 0000         INGRESOS POR INTERESES BANCARIOS                                                                     N
+  5 02 01 01 001 0001           INGRESOS POR INTERESES BANCARIOS                                                       0    UFV    S
+  5 02 01 02 000 0000       INGRESOS POR INTERESES OTROS                                                                           N
+  5 02 01 02 001 0000         INGRESOS POR INTERESES OTROS                                                                         N
+  5 02 01 02 001 0001           INGRESOS POR INTERESES OTROS                                                           0    UFV    S
+  5 02 02 00 000 0000     I N G R E S O S  V A R I O S                                                                             N
+  5 02 02 01 000 0000       INGRESOS POR ALQUILERES                                                                                N
+  5 02 02 01 001 0000         INGRESOS POR ALQUILERES LA PAZ                                                                       N
+  5 02 02 01 001 0001           ALQUILERES RECIBIDOS LA PAZ                                                            0    UFV    S
+  5 02 02 02 000 0000       INGRESOS POR DIFERENCIA DE CAMBIO                                                                      N
+  5 02 02 02 001 0000         INGRESOS POR DIFERENCIA DE CAMBIO                                                                    N
+  5 02 02 02 001 0001           AJUSTE POR INFLACION Y TENENCIA DE BIENES                                              0    UFV    S
+  5 02 02 02 001 0002           DIFERENCIAS POR REDONDEOS                                                              0    UFV    S
+  5 02 02 02 001 0003           DIFERENCIA DE CAMBIO                                                                   0    UFV    S
+  5 02 02 02 001 0004           MANTENIMIENTO DE VALOR                                                                 0    UFV    S
+  5 02 02 03 000 0000       INGRESO POR VENTA DE ACTIVOS                                                                           N
+  5 02 02 03 001 0000         INGRESO POR VENTA DE ACTIVOS                                                                         N
+  5 02 02 03 001 0001           INGRESO POR VENTA DE ACTIVOS                                                           0    UFV    S
+  5 02 02 99 000 0000       OTROS INGRESOS                                                                                         N
+  5 02 02 99 001 0000         OTROS INGRESOS                                                                                       N
+  5 02 02 99 001 0001           OTROS INGRESOS                                                                         0    UFV    S
+  6 00 00 00 000 0000 C U E N T A S  D E  O R D E N  D E U D O R A S                                                               N
+  6 01 00 00 000 0000   C U E N T A S  D E  O R D E N  D E U D O R A S                                                             N
+  6 01 01 00 000 0000     F I A N Z A S  O T O R G A D A S                                                                         N
+  6 01 02 00 000 0000     G A R A N T I A S  O T O R G A D A S                                                                     N
+  6 01 03 00 000 0000     L I N E A S  C R E D I T O  O B T E N I D A S                                                            N
+  7 00 00 00 000 0000 C U E N T A S  D E  O R D E N  A C R E E D O R A S                                                           N
+  7 01 00 00 000 0000   C U E N T A S  D E  O R D E N  A C R E E D O R A S                                                         N
+  7 01 01 00 000 0000     O B L I G A C I O N E S  P O R  F I A N Z A S                                                            N
+  7 01 02 00 000 0000     O B L I G A C I O N E S  P O R  G A R A N T I A S                                                        N
+  7 01 03 00 000 0000     O B L I G A C I O N E S  P O R  L I N E A S                                                              N
+  8 00 00 00 000 0000 C O S T O S  D E  P R O D U C C I O N                                                                        N
+  8 01 00 00 000 0000   C O S T O  P R O D U C C I O N  P R O D. T E R M.                                                          N
+  8 01 05 00 000 0000     C O S T O S  P R O D U C C I O N  E N V. F L E X.                                                        N
+  8 01 05 01 000 0000       COSTO MATERIA PRIMA Y MATERIALES ENV.FLEXIBLES                                                         N
+  8 01 05 01 001 0000         MATERIA PRIMA PARA ENV.FLEXIBLES                                                                     N
+  8 01 05 01 001 0001           POLIETILENO                                                                                        S
+  8 01 05 01 001 0002           POLIPROPILENO                                                                                      S
+  8 01 05 01 001 0003           POLIESTER (PET)                                                                                    S
+  8 01 05 01 001 0004           PAPEL                                                                                              S
+  8 01 05 01 001 0005           PARAFINA                                                                                           S
+  8 01 05 01 001 0006           PVC                                                                                                S
+  8 01 05 01 001 0007           VARIOS MAT.PRIMA ENV.FLEXIBLES                                                                     S
+  8 01 05 01 001 0101           TINTAS - EXTENDER                                                                                  S
+  8 01 05 01 001 0102           SOLVENTES                                                                                          S
+  8 01 05 01 001 0103           ADHESIVOS                                                                                          S
+  8 01 05 01 001 0105           MASTERBATCH                                                                                        S
+  8 01 05 01 002 0000         MATERIALES PARA ENV.FLEXIBLES                                                                        N
+  8 01 05 01 002 0001           ENVASES PARA ENV.FLEXIBLES                                                                         S
+  8 01 05 01 002 0002           EMPAQUES PARA ENV.FLEXIBLES                                                                        S
+  8 01 05 01 002 0101           VARIOS MATERIALES PARA ENV.FLEXIBLES                                                               S
+  8 01 05 02 000 0000       COSTO MANO DE OBRA ENV.FLEXIBLES                                                                       N
+  8 01 05 02 001 0000         COSTO MANO DE OBRA DIRECTA ENV.FLEXIBLES                                                             N
+  8 01 05 02 001 0101           SUELDOS, SALARIOS Y BONOS LABOR ENV. FLEXIBLES                                                     S
+  8 01 05 02 001 0102           HORAS EXTRA LABOR ENV.FLEXIBLES                                                                    S
+  8 01 05 02 001 0103           AGUINALDO Y PRIMAS LABOR ENV.FLEXIBLES                                                             S
+  8 01 05 02 001 0104           INDEMNIZACIONES LABOR ENV.FLEXIBLES                                                                S
+  8 01 05 02 001 0105           SUBSIDIOS LABOR ENV.FLEXIBLES                                                                      S
+  8 01 05 02 001 0106           DESHAUCIOS LABOR ENV.FLEXIBLES                                                                     S
+  8 01 05 02 001 0107           COMPENSACION VACACIONES LABOR ENV.FLEXIBLES                                                        S
+  8 01 05 02 001 0108           OTRAS RETRIBUCIONES LABOR ENV.FLEXIBLES                                                            S
+  8 01 05 02 001 0109           CAPACITACION LABOR ENV.FLEXIBLES                                                                   S
+  8 01 05 02 001 0110           ROPA DE TRABAJO LABOR ENV.FLEXIBLES                                                                S
+  8 01 05 02 001 0111           ALIMENTACION Y REGRIGERIOS LABOR ENV.FLEXIBLES                                                     S
+  8 01 05 02 001 0112           VIATICOS LABOR ENV.FLEXIBLES                                                                       S
+  8 01 05 02 001 0113           OTROS SERVICIOS AL PERSONAL LABOR ENV.FLEXIBLES                                                    S
+  8 01 05 03 000 0000       COSTO DE FABRICACION ENV.FLEXIBLES                                                                     N
+  8 01 05 03 001 0000         COSTO DE PERSONAL INDIRECTO ENV.FLEXIBLES                                                            N
+  8 01 05 03 001 0001           SUELDOS SALARIOS Y BONOS GER. ENV.FLEXIBLES                                                        S
+  8 01 05 03 001 0002           HORAS EXTRAS GER ENV.FLEXIBLES                                                                     S
+  8 01 05 03 001 0003           AGUINALDO Y PRIMAS GER ENV.FLEXIBLES                                                               S
+  8 01 05 03 001 0004           INDEMNIZACIONES GER ENV.FLEXIBLES                                                                  S
+  8 01 05 03 001 0005           SUBSIDIOS GER ENV.FLEXIBLES                                                                        S
+  8 01 05 03 001 0006           DESHAUCIOS GER ENV.FLEXIBLES                                                                       S
+  8 01 05 03 001 0007           COMPENSACION VACACIONES GER ENV.FLEXIBLES                                                          S
+  8 01 05 03 001 0008           OTRAS RETRIBUCIONES GER ENV.FLEXIBLES                                                              S
+  8 01 05 03 001 0009           CAPACITACION GER ENV.FLEXIBLES                                                                     S
+  8 01 05 03 001 0010           ROPA DE TRABAJO GER ENV.FLEXIBLES                                                                  S
+  8 01 05 03 001 0011           ALIMENTACION Y REFRIGERIOS GER ENV.FLEXIBLES                                                       S
+  8 01 05 03 001 0012           VIATICOS GER ENV.FLEXIBLES                                                                         S
+  8 01 05 03 001 0013           OTROS SERVICIOS AL PERSONAL GER.ENV.FLEXIBLES                                                      S
+  8 01 05 03 002 0000         MANTENIMIENTO Y REP.BIENES DE USO ENV.FLEXIBLES                                                      N
+  8 01 05 03 002 0001           MTO. Y REP. MAQUINARIA ENV.FLEXIBLES                                                               S
+  8 01 05 03 002 0002           MTO. Y REP. INSTALACIONES ENV.FLEXIBLES                                                            S
+  8 01 05 03 003 0000         DEPRECIACION BIENES DE USO ENV.FLEXIBLES                                                             N
+  8 01 05 03 003 0001           DEPRECIACION MAQUINARIA ENV.FLEXIBLES                                                              S
+  8 01 05 03 003 0002           DEPRECIACION INSTALACIONES ENV.FLEXIBLES                                                           S
+  8 01 05 03 004 0000         OTROS COSTOS DE PRODUCCION ENV.FLEXIBLES                                                             N
+  8 01 05 03 004 0001           ENERGIA ELECTRICA ENV. FLEXIBLES                                                                   S
+  8 01 05 03 004 0002           GAS GLP ENV.FLEXIBLES                                                                              S
+  8 01 05 03 004 0003           COMBUSTIBLES Y LUBRICANTES ENV.FLEXIBLES                                                           S
+  8 01 05 03 004 0004           OTROS COSTOS DE PRODUCCION                                                                         S
+  8 01 05 03 005 0000         .                                                                                                    N
+  8 01 05 03 005 0001           .                                                                                                  N
